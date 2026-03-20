@@ -1,0 +1,63 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 200 200">
+  <!-- Shadow - Sleek nocturnal raccoon, glowing eyes, crouched low -->
+  <!-- Striped tail extended behind -->
+  <path d="M30 140 Q8 130 5 115 Q2 100 12 95 Q22 92 28 102 Q32 112 35 130" fill="#2e3040" stroke="#1a1a25" stroke-width="3.5"/>
+  <rect x="5" y="98" width="16" height="5" rx="2.5" fill="#1a1a25" stroke="none" transform="rotate(-18 13 100)"/>
+  <rect x="8" y="107" width="17" height="5" rx="2.5" fill="#1a1a25" stroke="none" transform="rotate(-5 16 109)"/>
+  <rect x="12" y="116" width="17" height="5" rx="2.5" fill="#1a1a25" stroke="none" transform="rotate(8 20 118)"/>
+
+  <!-- Back legs (crouched) -->
+  <ellipse cx="65" cy="168" rx="16" ry="9" fill="#2e3040" stroke="#1a1a25" stroke-width="3"/>
+  <ellipse cx="105" cy="170" rx="16" ry="9" fill="#2e3040" stroke="#1a1a25" stroke-width="3"/>
+
+  <!-- Body (crouched, elongated) -->
+  <ellipse cx="90" cy="145" rx="52" ry="30" fill="#2e3040" stroke="#1a1a25" stroke-width="3.5"/>
+  <!-- Subtle belly -->
+  <ellipse cx="90" cy="150" rx="30" ry="18" fill="#404558" stroke="none"/>
+
+  <!-- Front legs (crouched forward) -->
+  <path d="M125 140 Q140 155 145 168" fill="none" stroke="#1a1a25" stroke-width="8" stroke-linecap="round"/>
+  <path d="M125 140 Q140 155 145 168" fill="none" stroke="#2e3040" stroke-width="5" stroke-linecap="round"/>
+  <ellipse cx="146" cy="172" rx="9" ry="5" fill="#1e2030" stroke="#1a1a25" stroke-width="2"/>
+
+  <path d="M135 135 Q155 145 162 160" fill="none" stroke="#1a1a25" stroke-width="8" stroke-linecap="round"/>
+  <path d="M135 135 Q155 145 162 160" fill="none" stroke="#2e3040" stroke-width="5" stroke-linecap="round"/>
+  <ellipse cx="163" cy="164" rx="9" ry="5" fill="#1e2030" stroke="#1a1a25" stroke-width="2"/>
+
+  <!-- Head (low, alert) -->
+  <ellipse cx="130" cy="110" rx="35" ry="30" fill="#2e3040" stroke="#1a1a25" stroke-width="3.5"/>
+
+  <!-- Ears (alert, pointed up) -->
+  <path d="M107 86 L100 68 L115 82" fill="#2e3040" stroke="#1a1a25" stroke-width="3"/>
+  <path d="M104 76 L108 82" fill="none" stroke="#d4a08a" stroke-width="3"/>
+  <path d="M153 86 L160 68 L145 82" fill="#2e3040" stroke="#1a1a25" stroke-width="3"/>
+  <path d="M156 76 L152 82" fill="none" stroke="#d4a08a" stroke-width="3"/>
+
+  <!-- White face markings -->
+  <ellipse cx="130" cy="108" rx="25" ry="19" fill="#bbb8b0" stroke="none"/>
+
+  <!-- Dark mask -->
+  <path d="M102 102 Q114 95 124 102 Q130 97 136 102 Q148 95 158 102 Q154 112 136 110 Q130 114 124 110 Q106 112 102 102Z" fill="#1a1a25" stroke="none"/>
+
+  <!-- Glowing eyes -->
+  <ellipse cx="118" cy="104" rx="7" ry="6" fill="#d4c844" stroke="none"/>
+  <ellipse cx="142" cy="104" rx="7" ry="6" fill="#d4c844" stroke="none"/>
+  <!-- Slit pupils -->
+  <ellipse cx="118" cy="104" rx="2.5" ry="5" fill="#1a1a25"/>
+  <ellipse cx="142" cy="104" rx="2.5" ry="5" fill="#1a1a25"/>
+  <!-- Glow effect -->
+  <ellipse cx="118" cy="104" rx="9" ry="8" fill="#d4c844" opacity="0.15" stroke="none"/>
+  <ellipse cx="142" cy="104" rx="9" ry="8" fill="#d4c844" opacity="0.15" stroke="none"/>
+
+  <!-- Nose -->
+  <ellipse cx="130" cy="116" rx="4.5" ry="3" fill="#1a1a25" stroke="none"/>
+
+  <!-- Subtle mouth line -->
+  <path d="M125 120 Q130 122 135 120" fill="none" stroke="#1a1a25" stroke-width="2" stroke-linecap="round"/>
+
+  <!-- Whisker dots -->
+  <circle cx="112" cy="115" r="1.2" fill="#1a1a25"/>
+  <circle cx="109" cy="112" r="1.2" fill="#1a1a25"/>
+  <circle cx="148" cy="115" r="1.2" fill="#1a1a25"/>
+  <circle cx="151" cy="112" r="1.2" fill="#1a1a25"/>
+</svg>

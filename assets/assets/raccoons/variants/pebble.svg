@@ -1,0 +1,45 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 120 120">
+  <!-- Golden Pebbles Raccoon - small, cute, youthful -->
+  <!-- Tail -->
+  <ellipse cx="82" cy="92" rx="11" ry="5" fill="#DAA520" transform="rotate(-35 82 92)"/>
+  <ellipse cx="88" cy="87" rx="9" ry="4" fill="#B8860B" transform="rotate(-35 88 87)"/>
+  <ellipse cx="93" cy="83" rx="7" ry="3.5" fill="#DAA520" transform="rotate(-35 93 83)"/>
+  <!-- Body - smaller, compact -->
+  <ellipse cx="60" cy="82" rx="22" ry="18" fill="#DAA520"/>
+  <!-- Belly -->
+  <ellipse cx="60" cy="86" rx="14" ry="11" fill="#FFD700"/>
+  <!-- Head - proportionally larger (cute/young) -->
+  <circle cx="60" cy="46" r="24" fill="#DAA520"/>
+  <!-- Ears -->
+  <circle cx="40" cy="27" r="8" fill="#DAA520"/>
+  <circle cx="40" cy="27" r="5" fill="#FFD700"/>
+  <circle cx="80" cy="27" r="8" fill="#DAA520"/>
+  <circle cx="80" cy="27" r="5" fill="#FFD700"/>
+  <!-- Mask -->
+  <ellipse cx="49" cy="45" rx="10" ry="6" fill="#B8860B"/>
+  <ellipse cx="71" cy="45" rx="10" ry="6" fill="#B8860B"/>
+  <!-- Eyes - big and cute -->
+  <circle cx="49" cy="44" r="5" fill="white"/>
+  <circle cx="71" cy="44" r="5" fill="white"/>
+  <circle cx="50" cy="43" r="3" fill="#222"/>
+  <circle cx="72" cy="43" r="3" fill="#222"/>
+  <circle cx="51" cy="42" r="1.2" fill="white"/>
+  <circle cx="73" cy="42" r="1.2" fill="white"/>
+  <!-- Nose - small -->
+  <ellipse cx="60" cy="52" rx="2.5" ry="1.5" fill="#222"/>
+  <!-- Small smile -->
+  <path d="M57 55 Q60 58 63 55" fill="none" stroke="#222" stroke-width="0.7"/>
+  <!-- Small feet -->
+  <ellipse cx="47" cy="102" rx="7" ry="3.5" fill="#B8860B"/>
+  <ellipse cx="73" cy="102" rx="7" ry="3.5" fill="#B8860B"/>
+  <!-- Freckle spots -->
+  <circle cx="45" cy="55" r="1" fill="#B8860B"/>
+  <circle cx="75" cy="55" r="1" fill="#B8860B"/>
+  <circle cx="48" cy="57" r="0.8" fill="#B8860B"/>
+  <circle cx="72" cy="57" r="0.8" fill="#B8860B"/>
+  <!-- Sparkle details -->
+  <polygon points="15,35 16,31 17,35 21,36 17,37 16,41 15,37 11,36" fill="#FFF8DC"/>
+  <polygon points="100,35 101,32 102,35 105,36 102,37 101,40 100,37 97,36" fill="#FFF8DC"/>
+  <polygon points="58,5 59,2 60,5 63,6 60,7 59,10 58,7 55,6" fill="#FFF8DC"/>
+  <polygon points="30,70 31,67 32,70 35,71 32,72 31,75 30,72 27,71" fill="#FFF8DC"/>
+</svg>

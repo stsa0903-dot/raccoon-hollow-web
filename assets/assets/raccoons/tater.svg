@@ -1,0 +1,40 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 120 120">
+  <!-- tater - glutton, potato brown, round belly -->
+  <!-- Tail -->
+  <ellipse cx="90" cy="76" rx="15" ry="7" fill="#9B7B50" transform="rotate(-10 90 76)"/>
+  <ellipse cx="95" cy="74" rx="11" ry="5" fill="#5A4020" transform="rotate(-10 95 74)"/>
+  <ellipse cx="99" cy="72" rx="7" ry="3.5" fill="#9B7B50" transform="rotate(-10 99 72)"/>
+  <!-- Very round body -->
+  <ellipse cx="55" cy="72" rx="28" ry="32" fill="#9B7B50"/>
+  <ellipse cx="55" cy="76" rx="22" ry="24" fill="#D4BA90"/>
+  <!-- Round belly highlight -->
+  <circle cx="55" cy="80" r="14" fill="#E0CCA0"/>
+  <!-- Short arms -->
+  <ellipse cx="30" cy="72" rx="6" ry="8" fill="#9B7B50" transform="rotate(20 30 72)"/>
+  <ellipse cx="80" cy="72" rx="6" ry="8" fill="#9B7B50" transform="rotate(-20 80 72)"/>
+  <!-- Stubby legs -->
+  <ellipse cx="42" cy="100" rx="8" ry="5" fill="#6A5030"/>
+  <ellipse cx="68" cy="100" rx="8" ry="5" fill="#6A5030"/>
+  <!-- Round head -->
+  <circle cx="55" cy="36" r="20" fill="#9B7B50"/>
+  <!-- Puffy cheeks -->
+  <circle cx="37" cy="40" r="5" fill="#B09060"/>
+  <circle cx="73" cy="40" r="5" fill="#B09060"/>
+  <!-- Ears -->
+  <circle cx="38" cy="19" r="6" fill="#9B7B50"/>
+  <circle cx="38" cy="19" r="3.5" fill="#D4A090"/>
+  <circle cx="72" cy="19" r="6" fill="#9B7B50"/>
+  <circle cx="72" cy="19" r="3.5" fill="#D4A090"/>
+  <!-- Mask -->
+  <ellipse cx="45" cy="34" rx="10" ry="7" fill="#5A4020"/>
+  <ellipse cx="65" cy="34" rx="10" ry="7" fill="#5A4020"/>
+  <!-- Eyes - happy -->
+  <circle cx="47" cy="34" r="3.5" fill="white"/>
+  <circle cx="63" cy="34" r="3.5" fill="white"/>
+  <circle cx="48" cy="34" r="1.8" fill="#2A1A0A"/>
+  <circle cx="64" cy="34" r="1.8" fill="#2A1A0A"/>
+  <!-- Nose -->
+  <ellipse cx="55" cy="40" rx="3" ry="2" fill="#1A1A1A"/>
+  <!-- Happy open mouth -->
+  <path d="M48 44 Q55 50 62 44" fill="#4A2020" stroke="#1A1A1A" stroke-width="1.2"/>
+</svg>

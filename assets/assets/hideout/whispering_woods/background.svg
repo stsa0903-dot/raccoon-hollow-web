@@ -1,0 +1,160 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1920 1080">
+  <!-- Layer 1: Sky — warm amber fill -->
+  <rect x="0" y="0" width="1920" height="420" fill="#E8A84C"/>
+
+  <!-- Layer 2: Distant tree line silhouettes -->
+  <!-- Triangular conifers -->
+  <polygon points="80,420 130,260 180,420" fill="#4A5E3A"/>
+  <polygon points="200,420 260,230 320,420" fill="#3D5130"/>
+  <polygon points="350,420 410,250 470,420" fill="#4A5E3A"/>
+  <polygon points="520,420 590,210 660,420" fill="#3D5130"/>
+  <polygon points="700,420 755,270 810,420" fill="#4A5E3A"/>
+  <!-- Round deciduous trees -->
+  <circle cx="920" cy="320" r="100" fill="#3D5130"/>
+  <rect x="910" y="370" width="20" height="50" fill="#3D5130"/>
+  <circle cx="1080" cy="300" r="120" fill="#4A5E3A"/>
+  <rect x="1070" y="380" width="20" height="40" fill="#4A5E3A"/>
+  <polygon points="1220,420 1280,240 1340,420" fill="#3D5130"/>
+  <polygon points="1380,420 1430,260 1480,420" fill="#4A5E3A"/>
+  <circle cx="1580" cy="310" r="110" fill="#3D5130"/>
+  <rect x="1570" y="380" width="20" height="40" fill="#3D5130"/>
+  <polygon points="1700,420 1760,250 1820,420" fill="#4A5E3A"/>
+  <polygon points="1850,420 1900,290 1950,420" fill="#3D5130"/>
+
+  <!-- Layer 3: Rolling hills -->
+  <ellipse cx="400" cy="500" rx="600" ry="140" fill="#6B7F4A"/>
+  <ellipse cx="1100" cy="520" rx="500" ry="130" fill="#5C6E3E"/>
+  <ellipse cx="1650" cy="490" rx="450" ry="120" fill="#6B7F4A"/>
+  <!-- Fill gap between hills and ground -->
+  <rect x="0" y="500" width="1920" height="80" fill="#5C6E3E"/>
+
+  <!-- Layer 4: Ground plane -->
+  <rect x="0" y="540" width="1920" height="540" fill="#8B6B3E"/>
+  <!-- Subtle ground variation -->
+  <ellipse cx="500" cy="700" rx="300" ry="30" fill="#7D6038"/>
+  <ellipse cx="1300" cy="800" rx="250" ry="25" fill="#7D6038"/>
+
+  <!-- Scattered stones -->
+  <ellipse cx="600" cy="880" rx="18" ry="12" fill="#9E9484"/>
+  <ellipse cx="620" cy="888" rx="12" ry="8" fill="#B0A594"/>
+  <ellipse cx="1400" cy="920" rx="15" ry="10" fill="#9E9484"/>
+  <ellipse cx="850" cy="960" rx="20" ry="13" fill="#B0A594"/>
+
+  <!-- Mushrooms -->
+  <rect x="740" y="870" width="6" height="16" fill="#E8DCC8"/>
+  <ellipse cx="743" cy="870" rx="12" ry="8" fill="#C0392B"/>
+  <circle cx="738" cy="867" r="2" fill="#EEDCC0"/>
+  <circle cx="748" cy="869" r="1.5" fill="#EEDCC0"/>
+
+  <rect x="1520" y="900" width="5" height="14" fill="#E8DCC8"/>
+  <ellipse cx="1522" cy="900" rx="10" ry="7" fill="#C0392B"/>
+  <circle cx="1518" cy="898" r="1.5" fill="#EEDCC0"/>
+  <circle cx="1526" cy="899" r="1.5" fill="#EEDCC0"/>
+
+  <!-- Layer 5: Foreground elements -->
+
+  <!-- Large hollow log (hideout entrance) — left side -->
+  <rect x="100" y="650" width="340" height="90" rx="45" fill="#6B4226"/>
+  <rect x="110" y="660" width="320" height="70" rx="35" fill="#7D5230"/>
+  <!-- Log opening (dark circle) -->
+  <ellipse cx="140" cy="695" rx="50" ry="42" fill="#2C1A0E"/>
+  <!-- Log ring detail -->
+  <ellipse cx="140" cy="695" rx="35" ry="28" fill="none" stroke="#3D2415" stroke-width="2"/>
+  <!-- Bark texture lines -->
+  <line x1="200" y1="665" x2="380" y2="665" stroke="#5A3720" stroke-width="2"/>
+  <line x1="210" y1="685" x2="400" y2="685" stroke="#5A3720" stroke-width="2"/>
+  <line x1="200" y1="710" x2="390" y2="710" stroke="#5A3720" stroke-width="2"/>
+  <!-- Moss on top of log -->
+  <ellipse cx="250" cy="648" rx="60" ry="10" fill="#5C6E3E"/>
+  <ellipse cx="340" cy="650" rx="40" ry="8" fill="#6B7F4A"/>
+
+  <!-- Big old tree stump (seating area) — right side -->
+  <rect x="1500" y="620" width="180" height="120" rx="10" fill="#6B4226"/>
+  <ellipse cx="1590" cy="620" rx="100" ry="30" fill="#7D5230"/>
+  <!-- Tree rings on top -->
+  <ellipse cx="1590" cy="620" rx="70" ry="20" fill="none" stroke="#5A3720" stroke-width="2"/>
+  <ellipse cx="1590" cy="620" rx="45" ry="13" fill="none" stroke="#5A3720" stroke-width="1.5"/>
+  <ellipse cx="1590" cy="620" rx="20" ry="6" fill="none" stroke="#5A3720" stroke-width="1"/>
+  <!-- Bark texture -->
+  <line x1="1510" y1="660" x2="1510" y2="730" stroke="#5A3720" stroke-width="2"/>
+  <line x1="1545" y1="650" x2="1545" y2="740" stroke="#5A3720" stroke-width="2"/>
+  <line x1="1635" y1="650" x2="1635" y2="740" stroke="#5A3720" stroke-width="2"/>
+  <line x1="1670" y1="660" x2="1670" y2="730" stroke="#5A3720" stroke-width="2"/>
+  <!-- Small mushrooms on stump -->
+  <rect x="1530" y="612" width="4" height="10" fill="#E8DCC8"/>
+  <ellipse cx="1532" cy="612" rx="7" ry="5" fill="#D4A24C"/>
+
+  <!-- Scattered autumn leaves -->
+  <!-- Leaf 1 — orange -->
+  <path d="M300,860 Q310,840 320,860 Q310,870 300,860Z" fill="#D4762C"/>
+  <!-- Leaf 2 — red -->
+  <path d="M480,930 Q490,910 500,930 Q490,940 480,930Z" fill="#B8392B"/>
+  <!-- Leaf 3 — yellow -->
+  <path d="M950,890 Q960,870 970,890 Q960,900 950,890Z" fill="#D4A24C"/>
+  <!-- Leaf 4 — orange -->
+  <path d="M1150,950 Q1160,930 1170,950 Q1160,960 1150,950Z" fill="#D4762C"/>
+  <!-- Leaf 5 — red -->
+  <path d="M700,980 Q710,960 720,980 Q710,990 700,980Z" fill="#B8392B"/>
+  <!-- Leaf 6 — yellow -->
+  <path d="M1350,870 Q1360,850 1370,870 Q1360,880 1350,870Z" fill="#D4A24C"/>
+  <!-- Leaf 7 — orange -->
+  <path d="M1750,940 Q1760,920 1770,940 Q1760,950 1750,940Z" fill="#D4762C"/>
+  <!-- Leaf 8 — red -->
+  <path d="M200,970 Q210,950 220,970 Q210,980 200,970Z" fill="#B8392B"/>
+
+  <!-- Ferns / bushes -->
+  <!-- Bush 1 — left of log -->
+  <ellipse cx="60" cy="720" rx="50" ry="35" fill="#4A6B2A"/>
+  <ellipse cx="40" cy="730" rx="30" ry="22" fill="#3D5E22"/>
+  <!-- Bush 2 — right side near stump -->
+  <ellipse cx="1750" cy="700" rx="55" ry="38" fill="#4A6B2A"/>
+  <ellipse cx="1780" cy="710" rx="35" ry="25" fill="#3D5E22"/>
+  <!-- Fern cluster — center -->
+  <path d="M960,780 Q940,740 960,700" stroke="#4A6B2A" stroke-width="3" fill="none"/>
+  <path d="M960,780 Q980,740 960,700" stroke="#4A6B2A" stroke-width="3" fill="none"/>
+  <path d="M960,780 Q950,750 940,720" stroke="#3D5E22" stroke-width="2" fill="none"/>
+  <path d="M960,780 Q970,750 980,720" stroke="#3D5E22" stroke-width="2" fill="none"/>
+  <ellipse cx="960" cy="785" rx="20" ry="8" fill="#4A6B2A"/>
+  <!-- Bush 3 — midground -->
+  <ellipse cx="1200" cy="650" rx="45" ry="30" fill="#4A6B2A"/>
+  <ellipse cx="1220" cy="660" rx="30" ry="20" fill="#3D5E22"/>
+
+  <!-- Layer 6: Designated zones -->
+
+  <!-- Feeding station zones — bottom third -->
+  <rect x="120" y="920" width="200" height="120" rx="8"
+        stroke="#666" stroke-dasharray="8 4" fill="none" opacity="0.3"/>
+  <text x="175" y="990" font-family="sans-serif" font-size="14"
+        fill="#666" opacity="0.4" text-anchor="middle">Food 1</text>
+
+  <rect x="860" y="920" width="200" height="120" rx="8"
+        stroke="#666" stroke-dasharray="8 4" fill="none" opacity="0.3"/>
+  <text x="960" y="990" font-family="sans-serif" font-size="14"
+        fill="#666" opacity="0.4" text-anchor="middle">Food 2</text>
+
+  <rect x="1600" y="920" width="200" height="120" rx="8"
+        stroke="#666" stroke-dasharray="8 4" fill="none" opacity="0.3"/>
+  <text x="1700" y="990" font-family="sans-serif" font-size="14"
+        fill="#666" opacity="0.4" text-anchor="middle">Food 3</text>
+
+  <!-- Activity spot zones — middle area -->
+  <rect x="300" y="740" width="180" height="130" rx="8"
+        stroke="#666" stroke-dasharray="8 4" fill="none" opacity="0.3"/>
+  <text x="390" y="815" font-family="sans-serif" font-size="14"
+        fill="#666" opacity="0.4" text-anchor="middle">Activity 1</text>
+
+  <rect x="700" y="700" width="180" height="130" rx="8"
+        stroke="#666" stroke-dasharray="8 4" fill="none" opacity="0.3"/>
+  <text x="790" y="775" font-family="sans-serif" font-size="14"
+        fill="#666" opacity="0.4" text-anchor="middle">Activity 2</text>
+
+  <rect x="1050" y="730" width="180" height="130" rx="8"
+        stroke="#666" stroke-dasharray="8 4" fill="none" opacity="0.3"/>
+  <text x="1140" y="805" font-family="sans-serif" font-size="14"
+        fill="#666" opacity="0.4" text-anchor="middle">Activity 3</text>
+
+  <rect x="1380" y="710" width="180" height="130" rx="8"
+        stroke="#666" stroke-dasharray="8 4" fill="none" opacity="0.3"/>
+  <text x="1470" y="785" font-family="sans-serif" font-size="14"
+        fill="#666" opacity="0.4" text-anchor="middle">Activity 4</text>
+</svg>

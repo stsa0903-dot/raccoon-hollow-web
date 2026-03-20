@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100">
+  <!-- Left post -->
+  <rect x="10" y="15" width="6" height="72" rx="2" fill="#8B6914" stroke="#2C1810" stroke-width="2.5"/>
+  <!-- Right post -->
+  <rect x="84" y="15" width="6" height="72" rx="2" fill="#8B6914" stroke="#2C1810" stroke-width="2.5"/>
+  <!-- Post caps -->
+  <circle cx="13" cy="16" r="4" fill="#A07B1A" stroke="#2C1810" stroke-width="2"/>
+  <circle cx="87" cy="16" r="4" fill="#A07B1A" stroke="#2C1810" stroke-width="2"/>
+  <!-- Hammock ropes left -->
+  <line x1="13" y1="25" x2="28" y2="40" stroke="#8B6914" stroke-width="2" stroke-linecap="round"/>
+  <!-- Hammock ropes right -->
+  <line x1="87" y1="25" x2="72" y2="40" stroke="#8B6914" stroke-width="2" stroke-linecap="round"/>
+  <!-- Hammock fabric -->
+  <path d="M28,40 Q50,72 72,40" fill="#228B22" stroke="#2C1810" stroke-width="2.5"/>
+  <!-- Hammock weave lines -->
+  <path d="M33,42 Q50,68 67,42" fill="none" stroke="#1B6B1B" stroke-width="1.5" opacity="0.5"/>
+  <path d="M38,44 Q50,64 62,44" fill="none" stroke="#1B6B1B" stroke-width="1.5" opacity="0.5"/>
+  <!-- Ground line -->
+  <line x1="5" y1="87" x2="95" y2="87" stroke="#2C1810" stroke-width="2" stroke-linecap="round"/>
+</svg>

@@ -1,0 +1,42 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 120 120">
+  <!-- Fidget - twitchy gray, alert pose -->
+  <!-- Tail - sticking up alertly -->
+  <path d="M80 80 Q92 60 88 45 Q86 38 80 40 Q76 42 78 50 Q79 60 78 72" fill="#7a7a7a" stroke="#2a2a2a" stroke-width="2"/>
+  <rect x="82" y="44" width="8" height="3.5" rx="2" fill="#2a2a2a" transform="rotate(10 86 46)"/>
+  <rect x="80" y="50" width="9" height="3.5" rx="2" fill="#2a2a2a" transform="rotate(-5 85 52)"/>
+  <rect x="79" y="56" width="9" height="3.5" rx="2" fill="#2a2a2a" transform="rotate(-10 84 58)"/>
+  <!-- Body - slightly tilted -->
+  <ellipse cx="58" cy="84" rx="24" ry="24" fill="#7a7a7a" stroke="#2a2a2a" stroke-width="2"/>
+  <ellipse cx="58" cy="87" rx="15" ry="15" fill="#a8a8a8"/>
+  <!-- Feet - one lifted -->
+  <ellipse cx="46" cy="104" rx="8" ry="5" fill="#7a7a7a" stroke="#2a2a2a" stroke-width="1.5"/>
+  <ellipse cx="70" cy="102" rx="8" ry="5" fill="#7a7a7a" stroke="#2a2a2a" stroke-width="1.5" transform="rotate(-10 70 102)"/>
+  <!-- Arms - one up nervously -->
+  <path d="M36 76 Q28 70 25 62" fill="none" stroke="#2a2a2a" stroke-width="5" stroke-linecap="round"/>
+  <path d="M36 76 Q28 70 25 62" fill="none" stroke="#7a7a7a" stroke-width="3" stroke-linecap="round"/>
+  <circle cx="24" cy="60" r="4" fill="#5a5a5a" stroke="#2a2a2a" stroke-width="1.5"/>
+  <path d="M80 78 Q86 85 84 92" fill="none" stroke="#2a2a2a" stroke-width="5" stroke-linecap="round"/>
+  <path d="M80 78 Q86 85 84 92" fill="none" stroke="#7a7a7a" stroke-width="3" stroke-linecap="round"/>
+  <!-- Head - slightly tilted -->
+  <ellipse cx="58" cy="42" rx="22" ry="20" fill="#7a7a7a" stroke="#2a2a2a" stroke-width="2"/>
+  <!-- Ears - perked up -->
+  <ellipse cx="41" cy="25" rx="7" ry="10" fill="#7a7a7a" stroke="#2a2a2a" stroke-width="2"/>
+  <ellipse cx="41" cy="25" rx="4" ry="6" fill="#d4a08a"/>
+  <ellipse cx="75" cy="25" rx="7" ry="10" fill="#7a7a7a" stroke="#2a2a2a" stroke-width="2"/>
+  <ellipse cx="75" cy="25" rx="4" ry="6" fill="#d4a08a"/>
+  <!-- Face -->
+  <ellipse cx="58" cy="41" rx="16" ry="13" fill="#d8d0c8"/>
+  <!-- Mask -->
+  <path d="M40 37 Q47 33 54 37 Q58 34 62 37 Q69 33 76 37 Q74 43 62 42 Q58 44 54 42 Q42 43 40 37Z" fill="#2a2a2a"/>
+  <!-- Eyes - wide alert -->
+  <ellipse cx="50" cy="38" rx="4.5" ry="4.5" fill="white"/>
+  <ellipse cx="66" cy="38" rx="4.5" ry="4.5" fill="white"/>
+  <circle cx="51" cy="37" r="2.5" fill="#2a2a2a"/>
+  <circle cx="67" cy="37" r="2.5" fill="#2a2a2a"/>
+  <circle cx="52" cy="36.5" r="1" fill="white"/>
+  <circle cx="68" cy="36.5" r="1" fill="white"/>
+  <!-- Nose -->
+  <ellipse cx="58" cy="46" rx="3" ry="2" fill="#2a2a2a"/>
+  <!-- Nervous mouth -->
+  <path d="M53 49 Q56 50 58 49 Q60 50 63 49" fill="none" stroke="#2a2a2a" stroke-width="1.2" stroke-linecap="round"/>
+</svg>

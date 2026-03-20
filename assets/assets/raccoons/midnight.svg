@@ -1,0 +1,60 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 120 120">
+  <!-- Midnight - Deep navy blue raccoon with star markings, bright yellow eyes -->
+  <!-- Tail -->
+  <path d="M28 85 Q15 78 12 68 Q9 58 18 55 Q25 53 28 60 Q32 68 35 78" fill="#1A1A3E" stroke="#0E0E28" stroke-width="2.5"/>
+  <rect x="11" y="57" width="12" height="4" rx="2" fill="#0E0E28" transform="rotate(-15 17 59)"/>
+  <rect x="14" y="64" width="13" height="4" rx="2" fill="#0E0E28" transform="rotate(-5 20 66)"/>
+  <rect x="17" y="71" width="13" height="4" rx="2" fill="#0E0E28" transform="rotate(5 23 73)"/>
+
+  <!-- Body -->
+  <ellipse cx="60" cy="84" rx="27" ry="25" fill="#1A1A3E" stroke="#0E0E28" stroke-width="2.5"/>
+  <!-- Belly -->
+  <ellipse cx="60" cy="87" rx="17" ry="17" fill="#2B2B5E" stroke="none"/>
+
+  <!-- Legs -->
+  <ellipse cx="47" cy="105" rx="9" ry="6" fill="#1A1A3E" stroke="#0E0E28" stroke-width="2"/>
+  <ellipse cx="73" cy="105" rx="9" ry="6" fill="#1A1A3E" stroke="#0E0E28" stroke-width="2"/>
+
+  <!-- Arms -->
+  <path d="M38 76 Q30 86 34 95" fill="none" stroke="#0E0E28" stroke-width="5" stroke-linecap="round"/>
+  <path d="M38 76 Q30 86 34 95" fill="none" stroke="#1A1A3E" stroke-width="3" stroke-linecap="round"/>
+  <path d="M82 76 Q90 86 86 95" fill="none" stroke="#0E0E28" stroke-width="5" stroke-linecap="round"/>
+  <path d="M82 76 Q90 86 86 95" fill="none" stroke="#1A1A3E" stroke-width="3" stroke-linecap="round"/>
+
+  <!-- Head -->
+  <ellipse cx="60" cy="43" rx="23" ry="20" fill="#1A1A3E" stroke="#0E0E28" stroke-width="2.5"/>
+
+  <!-- Ears -->
+  <ellipse cx="43" cy="27" rx="7" ry="9" fill="#1A1A3E" stroke="#0E0E28" stroke-width="2"/>
+  <ellipse cx="43" cy="27" rx="4" ry="5" fill="#2B2B5E" stroke="none"/>
+  <ellipse cx="77" cy="27" rx="7" ry="9" fill="#1A1A3E" stroke="#0E0E28" stroke-width="2"/>
+  <ellipse cx="77" cy="27" rx="4" ry="5" fill="#2B2B5E" stroke="none"/>
+
+  <!-- Face markings -->
+  <ellipse cx="60" cy="41" rx="17" ry="13" fill="#2B2B5E" stroke="none"/>
+
+  <!-- Mask -->
+  <path d="M41 38 Q48 33 55 38 Q60 34 65 38 Q72 33 79 38 Q77 44 65 42 Q60 45 55 42 Q43 44 41 38Z" fill="#0E0E28" stroke="none"/>
+
+  <!-- Eyes - bright yellow -->
+  <ellipse cx="51" cy="39" rx="4" ry="3.5" fill="#FFD700" stroke="none"/>
+  <ellipse cx="69" cy="39" rx="4" ry="3.5" fill="#FFD700" stroke="none"/>
+  <circle cx="52" cy="39" r="2" fill="#0E0E28"/>
+  <circle cx="70" cy="39" r="2" fill="#0E0E28"/>
+  <circle cx="53" cy="38" r="0.7" fill="#FFD700"/>
+  <circle cx="71" cy="38" r="0.7" fill="#FFD700"/>
+
+  <!-- Nose -->
+  <ellipse cx="60" cy="47" rx="3" ry="2" fill="#0E0E28"/>
+
+  <!-- Mouth -->
+  <path d="M56 50 Q60 52 64 50" fill="none" stroke="#0E0E28" stroke-width="1.5" stroke-linecap="round"/>
+
+  <!-- Star markings on body -->
+  <polygon points="60,65 61.5,68 65,68.5 62.5,70.5 63,74 60,72.5 57,74 57.5,70.5 55,68.5 58.5,68" fill="#FFD700" opacity="0.6"/>
+  <polygon points="45,75 46,77 48,77.2 46.8,78.5 47,80 45,79 43,80 43.2,78.5 42,77.2 44,77" fill="#FFD700" opacity="0.4"/>
+  <polygon points="75,75 76,77 78,77.2 76.8,78.5 77,80 75,79 73,80 73.2,78.5 72,77.2 74,77" fill="#FFD700" opacity="0.4"/>
+
+  <!-- Forehead star -->
+  <polygon points="60,30 61,32 63,32.3 61.5,33.5 62,35 60,34 58,35 58.5,33.5 57,32.3 59,32" fill="#FFD700" opacity="0.7"/>
+</svg>

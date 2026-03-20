@@ -1,0 +1,69 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 200 200">
+  <!-- Bandit - Mischievous raccoon, smirking, one paw raised -->
+  <!-- Striped tail -->
+  <path d="M45 140 Q20 130 15 110 Q10 95 25 90 Q35 87 40 95 Q45 105 50 120" fill="#5a5a5a" stroke="#2a2a2a" stroke-width="3.5"/>
+  <rect x="14" y="93" width="18" height="6" rx="3" fill="#2a2a2a" stroke="none" transform="rotate(-15 23 96)"/>
+  <rect x="18" y="103" width="20" height="6" rx="3" fill="#2a2a2a" stroke="none" transform="rotate(-5 28 106)"/>
+  <rect x="22" y="113" width="20" height="6" rx="3" fill="#2a2a2a" stroke="none" transform="rotate(5 32 116)"/>
+
+  <!-- Body -->
+  <ellipse cx="100" cy="140" rx="45" ry="42" fill="#5a5a5a" stroke="#2a2a2a" stroke-width="3.5"/>
+  <!-- Belly -->
+  <ellipse cx="100" cy="145" rx="28" ry="28" fill="#8a8a8a" stroke="none"/>
+
+  <!-- Left leg -->
+  <ellipse cx="78" cy="175" rx="14" ry="10" fill="#5a5a5a" stroke="#2a2a2a" stroke-width="3"/>
+  <!-- Right leg -->
+  <ellipse cx="122" cy="175" rx="14" ry="10" fill="#5a5a5a" stroke="#2a2a2a" stroke-width="3"/>
+
+  <!-- Left arm (down) -->
+  <path d="M62 125 Q50 140 55 155" fill="none" stroke="#2a2a2a" stroke-width="8" stroke-linecap="round"/>
+  <path d="M62 125 Q50 140 55 155" fill="none" stroke="#5a5a5a" stroke-width="5" stroke-linecap="round"/>
+
+  <!-- Right arm (raised, about to swipe) -->
+  <path d="M138 120 Q155 105 160 90" fill="none" stroke="#2a2a2a" stroke-width="8" stroke-linecap="round"/>
+  <path d="M138 120 Q155 105 160 90" fill="none" stroke="#5a5a5a" stroke-width="5" stroke-linecap="round"/>
+  <!-- Right paw -->
+  <circle cx="160" cy="87" r="8" fill="#3a3a3a" stroke="#2a2a2a" stroke-width="2.5"/>
+  <!-- Paw fingers -->
+  <circle cx="155" cy="80" r="3.5" fill="#3a3a3a" stroke="#2a2a2a" stroke-width="2"/>
+  <circle cx="161" cy="78" r="3.5" fill="#3a3a3a" stroke="#2a2a2a" stroke-width="2"/>
+  <circle cx="167" cy="80" r="3.5" fill="#3a3a3a" stroke="#2a2a2a" stroke-width="2"/>
+
+  <!-- Head -->
+  <ellipse cx="100" cy="72" rx="38" ry="34" fill="#5a5a5a" stroke="#2a2a2a" stroke-width="3.5"/>
+
+  <!-- Ears -->
+  <ellipse cx="72" cy="45" rx="12" ry="14" fill="#5a5a5a" stroke="#2a2a2a" stroke-width="3"/>
+  <ellipse cx="72" cy="45" rx="7" ry="9" fill="#d4a08a" stroke="none"/>
+  <ellipse cx="128" cy="45" rx="12" ry="14" fill="#5a5a5a" stroke="#2a2a2a" stroke-width="3"/>
+  <ellipse cx="128" cy="45" rx="7" ry="9" fill="#d4a08a" stroke="none"/>
+
+  <!-- White face markings -->
+  <ellipse cx="100" cy="68" rx="28" ry="22" fill="#e8e0d8" stroke="none"/>
+
+  <!-- Black mask -->
+  <path d="M68 62 Q80 55 92 62 Q100 56 108 62 Q120 55 132 62 Q128 72 108 70 Q100 74 92 70 Q72 72 68 62Z" fill="#2a2a2a" stroke="none"/>
+
+  <!-- Eyes (in mask) -->
+  <ellipse cx="85" cy="64" rx="6" ry="5.5" fill="white" stroke="none"/>
+  <ellipse cx="115" cy="64" rx="6" ry="5.5" fill="white" stroke="none"/>
+  <!-- Pupils - looking sideways mischievously -->
+  <circle cx="88" cy="64" r="3" fill="#2a2a2a"/>
+  <circle cx="118" cy="64" r="3" fill="#2a2a2a"/>
+  <!-- Glint -->
+  <circle cx="89" cy="63" r="1" fill="white"/>
+  <circle cx="119" cy="63" r="1" fill="white"/>
+
+  <!-- Nose -->
+  <ellipse cx="100" cy="77" rx="5" ry="3.5" fill="#2a2a2a" stroke="none"/>
+
+  <!-- Smirking mouth -->
+  <path d="M93 82 Q100 85 112 80" fill="none" stroke="#2a2a2a" stroke-width="2.5" stroke-linecap="round"/>
+
+  <!-- Cheek whisker dots -->
+  <circle cx="78" cy="78" r="1.5" fill="#2a2a2a"/>
+  <circle cx="74" cy="75" r="1.5" fill="#2a2a2a"/>
+  <circle cx="122" cy="78" r="1.5" fill="#2a2a2a"/>
+  <circle cx="126" cy="75" r="1.5" fill="#2a2a2a"/>
+</svg>

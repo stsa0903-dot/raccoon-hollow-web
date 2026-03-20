@@ -1,0 +1,34 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100">
+  <!-- Sushi roll 1 -->
+  <ellipse cx="22" cy="55" rx="14" ry="14" fill="#1B3D1B" stroke="#4A3728" stroke-width="2.5"/>
+  <ellipse cx="22" cy="55" rx="11" ry="11" fill="white" stroke="#4A3728" stroke-width="1.5"/>
+  <ellipse cx="22" cy="55" rx="6" ry="6" fill="#FA8072" stroke="#4A3728" stroke-width="1.5"/>
+  <!-- Rice dots roll 1 -->
+  <circle cx="16" cy="48" r="1.2" fill="#E8E8E8"/>
+  <circle cx="28" cy="48" r="1.2" fill="#E8E8E8"/>
+  <circle cx="14" cy="58" r="1.2" fill="#E8E8E8"/>
+  <circle cx="30" cy="60" r="1.2" fill="#E8E8E8"/>
+
+  <!-- Sushi roll 2 -->
+  <ellipse cx="50" cy="50" rx="14" ry="14" fill="#1B3D1B" stroke="#4A3728" stroke-width="2.5"/>
+  <ellipse cx="50" cy="50" rx="11" ry="11" fill="white" stroke="#4A3728" stroke-width="1.5"/>
+  <ellipse cx="50" cy="50" rx="6" ry="6" fill="#FA8072" stroke="#4A3728" stroke-width="1.5"/>
+  <!-- Rice dots roll 2 -->
+  <circle cx="44" cy="43" r="1.2" fill="#E8E8E8"/>
+  <circle cx="56" cy="43" r="1.2" fill="#E8E8E8"/>
+  <circle cx="42" cy="53" r="1.2" fill="#E8E8E8"/>
+  <circle cx="58" cy="55" r="1.2" fill="#E8E8E8"/>
+
+  <!-- Sushi roll 3 -->
+  <ellipse cx="78" cy="55" rx="14" ry="14" fill="#1B3D1B" stroke="#4A3728" stroke-width="2.5"/>
+  <ellipse cx="78" cy="55" rx="11" ry="11" fill="white" stroke="#4A3728" stroke-width="1.5"/>
+  <ellipse cx="78" cy="55" rx="6" ry="6" fill="#FA8072" stroke="#4A3728" stroke-width="1.5"/>
+  <!-- Rice dots roll 3 -->
+  <circle cx="72" cy="48" r="1.2" fill="#E8E8E8"/>
+  <circle cx="84" cy="48" r="1.2" fill="#E8E8E8"/>
+  <circle cx="70" cy="58" r="1.2" fill="#E8E8E8"/>
+  <circle cx="86" cy="60" r="1.2" fill="#E8E8E8"/>
+
+  <!-- Plate/surface line -->
+  <line x1="5" y1="72" x2="95" y2="72" stroke="#4A3728" stroke-width="2" stroke-linecap="round"/>
+</svg>

@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100">
+  <!-- Coiled rope loops -->
+  <ellipse cx="50" cy="60" rx="25" ry="10" fill="none" stroke="#C4A35A" stroke-width="6" />
+  <ellipse cx="50" cy="52" rx="22" ry="9" fill="none" stroke="#C4A35A" stroke-width="6" />
+  <ellipse cx="50" cy="44" rx="19" ry="8" fill="none" stroke="#C4A35A" stroke-width="6" />
+  <ellipse cx="50" cy="37" rx="16" ry="7" fill="none" stroke="#C4A35A" stroke-width="6" />
+  <!-- Rope outlines -->
+  <ellipse cx="50" cy="60" rx="25" ry="10" fill="none" stroke="#2C1810" stroke-width="2.5" />
+  <ellipse cx="50" cy="52" rx="22" ry="9" fill="none" stroke="#2C1810" stroke-width="2" />
+  <ellipse cx="50" cy="44" rx="19" ry="8" fill="none" stroke="#2C1810" stroke-width="2" />
+  <ellipse cx="50" cy="37" rx="16" ry="7" fill="none" stroke="#2C1810" stroke-width="2" />
+  <!-- Knot at end -->
+  <circle cx="50" cy="28" r="7" fill="#A88B3A" stroke="#2C1810" stroke-width="2.5"/>
+  <line x1="50" y1="21" x2="50" y2="15" stroke="#C4A35A" stroke-width="4" stroke-linecap="round"/>
+  <line x1="50" y1="21" x2="50" y2="15" stroke="#2C1810" stroke-width="1.5" stroke-linecap="round" opacity="0.3"/>
+  <!-- Trailing rope end -->
+  <path d="M75,60 Q82,65 78,75 Q74,82 80,88" fill="none" stroke="#C4A35A" stroke-width="4" stroke-linecap="round"/>
+  <path d="M75,60 Q82,65 78,75 Q74,82 80,88" fill="none" stroke="#2C1810" stroke-width="1.5" stroke-linecap="round" opacity="0.4"/>
+</svg>

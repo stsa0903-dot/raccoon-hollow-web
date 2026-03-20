@@ -1,0 +1,37 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 120 120">
+  <!-- thistle - shy, purple-gray, hiding behind tail -->
+  <!-- Big bushy tail in front of body (hiding behind it) -->
+  <ellipse cx="55" cy="65" rx="28" ry="16" fill="#7A6A80" transform="rotate(5 55 65)"/>
+  <ellipse cx="55" cy="65" rx="22" ry="12" fill="#4A3A50"/>
+  <ellipse cx="55" cy="65" rx="16" ry="8" fill="#7A6A80"/>
+  <!-- Body behind tail (mostly hidden) -->
+  <ellipse cx="55" cy="80" rx="20" ry="22" fill="#8A7A90"/>
+  <!-- Legs peeking below -->
+  <ellipse cx="44" cy="100" rx="6" ry="4" fill="#5A4A60"/>
+  <ellipse cx="66" cy="100" rx="6" ry="4" fill="#5A4A60"/>
+  <!-- Head peeking above tail -->
+  <circle cx="55" cy="38" r="17" fill="#8A7A90"/>
+  <!-- Ears -->
+  <circle cx="41" cy="24" r="6" fill="#8A7A90"/>
+  <circle cx="41" cy="24" r="3.5" fill="#B090A0"/>
+  <circle cx="69" cy="24" r="6" fill="#8A7A90"/>
+  <circle cx="69" cy="24" r="3.5" fill="#B090A0"/>
+  <!-- Mask -->
+  <ellipse cx="46" cy="36" rx="9" ry="6" fill="#4A3A50"/>
+  <ellipse cx="64" cy="36" rx="9" ry="6" fill="#4A3A50"/>
+  <!-- Eyes - nervous shy peeking -->
+  <circle cx="48" cy="36" r="3.5" fill="white"/>
+  <circle cx="62" cy="36" r="3.5" fill="white"/>
+  <circle cx="47" cy="37" r="2" fill="#4A3A5A"/>
+  <circle cx="61" cy="37" r="2" fill="#4A3A5A"/>
+  <!-- Worried eyebrows -->
+  <path d="M43 31 Q47 29 51 31" fill="none" stroke="#4A3A50" stroke-width="1.2" stroke-linecap="round"/>
+  <path d="M59 31 Q63 29 67 31" fill="none" stroke="#4A3A50" stroke-width="1.2" stroke-linecap="round"/>
+  <!-- Nose -->
+  <ellipse cx="55" cy="42" rx="2" ry="1.5" fill="#1A1A1A"/>
+  <!-- Tiny worried mouth -->
+  <path d="M52 45 Q55 44 58 45" fill="none" stroke="#1A1A1A" stroke-width="0.8" stroke-linecap="round"/>
+  <!-- Blush -->
+  <circle cx="42" cy="40" r="2.5" fill="#C090A0" opacity="0.4"/>
+  <circle cx="68" cy="40" r="2.5" fill="#C090A0" opacity="0.4"/>
+</svg>

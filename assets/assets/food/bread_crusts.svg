@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100">
+  <!-- Bread crust piece 1 - large -->
+  <path d="M20 40 L45 35 L50 55 L30 60 Z" fill="#D4A574" stroke="#4A3728" stroke-width="2.5" stroke-linejoin="round"/>
+  <path d="M20 40 L45 35 L42 42 L22 45 Z" fill="#8B6914" stroke="#4A3728" stroke-width="2.5" stroke-linejoin="round"/>
+  <!-- Bread crust piece 2 - medium -->
+  <path d="M55 30 L75 28 L78 48 L60 50 Z" fill="#D4A574" stroke="#4A3728" stroke-width="2.5" stroke-linejoin="round"/>
+  <path d="M55 30 L75 28 L74 35 L57 36 Z" fill="#8B6914" stroke="#4A3728" stroke-width="2.5" stroke-linejoin="round"/>
+  <!-- Bread crust piece 3 - small -->
+  <path d="M35 62 L55 58 L58 72 L38 75 Z" fill="#D4A574" stroke="#4A3728" stroke-width="2.5" stroke-linejoin="round"/>
+  <path d="M35 62 L55 58 L54 64 L36 67 Z" fill="#8B6914" stroke="#4A3728" stroke-width="2.5" stroke-linejoin="round"/>
+  <!-- Crumb dots -->
+  <circle cx="70" cy="60" r="2.5" fill="#D4A574" stroke="#4A3728" stroke-width="1.5"/>
+  <circle cx="48" cy="78" r="2" fill="#D4A574" stroke="#4A3728" stroke-width="1.5"/>
+  <circle cx="25" cy="52" r="1.8" fill="#D4A574" stroke="#4A3728" stroke-width="1.5"/>
+</svg>

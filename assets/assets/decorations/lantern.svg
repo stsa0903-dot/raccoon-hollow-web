@@ -1,0 +1,23 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 120 120">
+  <!-- Hook and chain -->
+  <line x1="60" y1="5" x2="60" y2="25" stroke="#6B5B45" stroke-width="3" stroke-linecap="round"/>
+  <circle cx="60" cy="5" r="4" fill="#6B5B45"/>
+  <!-- Lantern top cap -->
+  <rect x="45" y="22" width="30" height="6" rx="2" fill="#8B7355"/>
+  <!-- Glass body -->
+  <rect x="40" y="28" width="40" height="50" rx="5" fill="#FFD54F" opacity="0.7"/>
+  <!-- Warm glow -->
+  <ellipse cx="60" cy="53" rx="12" ry="16" fill="#FFECB3" opacity="0.6"/>
+  <!-- Flame -->
+  <ellipse cx="60" cy="50" rx="5" ry="10" fill="#FF8F00"/>
+  <ellipse cx="60" cy="48" rx="3" ry="6" fill="#FFD54F"/>
+  <!-- Metal frame bars -->
+  <line x1="40" y1="28" x2="40" y2="78" stroke="#8B7355" stroke-width="3"/>
+  <line x1="80" y1="28" x2="80" y2="78" stroke="#8B7355" stroke-width="3"/>
+  <!-- Lantern bottom cap -->
+  <rect x="45" y="78" width="30" height="6" rx="2" fill="#8B7355"/>
+  <!-- Bottom point -->
+  <polygon points="55,84 65,84 60,95" fill="#8B7355"/>
+  <!-- Glow halo -->
+  <circle cx="60" cy="53" r="30" fill="#FFD700" opacity="0.1"/>
+</svg>

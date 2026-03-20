@@ -1,0 +1,23 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 120 120">
+  <!-- Stump body -->
+  <rect x="25" y="40" width="70" height="60" rx="8" fill="#795548"/>
+  <!-- Bark texture -->
+  <line x1="30" y1="45" x2="30" y2="100" stroke="#5D4037" stroke-width="2" opacity="0.5"/>
+  <line x1="45" y1="42" x2="45" y2="100" stroke="#5D4037" stroke-width="2" opacity="0.4"/>
+  <line x1="60" y1="40" x2="60" y2="100" stroke="#5D4037" stroke-width="2" opacity="0.5"/>
+  <line x1="75" y1="42" x2="75" y2="100" stroke="#5D4037" stroke-width="2" opacity="0.4"/>
+  <line x1="90" y1="45" x2="90" y2="100" stroke="#5D4037" stroke-width="2" opacity="0.5"/>
+  <!-- Top surface -->
+  <ellipse cx="60" cy="42" rx="38" ry="14" fill="#A1887F"/>
+  <!-- Growth rings -->
+  <ellipse cx="60" cy="42" rx="28" ry="10" fill="none" stroke="#8D6E63" stroke-width="2"/>
+  <ellipse cx="60" cy="42" rx="18" ry="7" fill="none" stroke="#8D6E63" stroke-width="1.5"/>
+  <ellipse cx="60" cy="42" rx="8" ry="4" fill="none" stroke="#8D6E63" stroke-width="1.5"/>
+  <!-- Center dot -->
+  <ellipse cx="60" cy="42" rx="3" ry="1.5" fill="#8D6E63"/>
+  <!-- Small root bumps -->
+  <ellipse cx="28" cy="98" rx="8" ry="5" fill="#6D4C41"/>
+  <ellipse cx="92" cy="98" rx="8" ry="5" fill="#6D4C41"/>
+  <!-- Ground shadow -->
+  <ellipse cx="60" cy="103" rx="42" ry="6" fill="#3E2723" opacity="0.15"/>
+</svg>

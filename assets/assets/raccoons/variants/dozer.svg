@@ -1,0 +1,43 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 120 120">
+  <!-- Golden Dozer Raccoon - sleepy, droopy eyes -->
+  <!-- Tail -->
+  <ellipse cx="85" cy="95" rx="12" ry="6" fill="#DAA520" transform="rotate(-30 85 95)"/>
+  <ellipse cx="92" cy="90" rx="10" ry="5" fill="#B8860B" transform="rotate(-30 92 90)"/>
+  <ellipse cx="98" cy="85" rx="8" ry="4" fill="#DAA520" transform="rotate(-30 98 85)"/>
+  <!-- Body -->
+  <ellipse cx="60" cy="80" rx="25" ry="20" fill="#DAA520"/>
+  <!-- Belly -->
+  <ellipse cx="60" cy="85" rx="15" ry="12" fill="#FFD700"/>
+  <!-- Head -->
+  <circle cx="60" cy="45" r="22" fill="#DAA520"/>
+  <!-- Ears -->
+  <circle cx="42" cy="28" r="8" fill="#DAA520"/>
+  <circle cx="42" cy="28" r="5" fill="#FFD700"/>
+  <circle cx="78" cy="28" r="8" fill="#DAA520"/>
+  <circle cx="78" cy="28" r="5" fill="#FFD700"/>
+  <!-- Mask -->
+  <ellipse cx="49" cy="44" rx="10" ry="6" fill="#B8860B"/>
+  <ellipse cx="71" cy="44" rx="10" ry="6" fill="#B8860B"/>
+  <!-- Sleepy eyes - half closed -->
+  <ellipse cx="50" cy="44" rx="3.5" ry="1.5" fill="white"/>
+  <ellipse cx="70" cy="44" rx="3.5" ry="1.5" fill="white"/>
+  <ellipse cx="50" cy="44.5" rx="2" ry="1" fill="#222"/>
+  <ellipse cx="70" cy="44.5" rx="2" ry="1" fill="#222"/>
+  <!-- Droopy eyelids -->
+  <path d="M46 42 Q50 40 54 42" fill="#B8860B" stroke="none"/>
+  <path d="M66 42 Q70 40 74 42" fill="#B8860B" stroke="none"/>
+  <!-- Nose -->
+  <ellipse cx="60" cy="52" rx="3" ry="2" fill="#222"/>
+  <!-- Sleepy mouth -->
+  <path d="M57 55 Q60 56 63 55" fill="none" stroke="#222" stroke-width="0.7"/>
+  <!-- Zzz -->
+  <text x="80" y="30" font-size="8" fill="#B8860B" font-family="sans-serif" font-weight="bold">z</text>
+  <text x="86" y="24" font-size="10" fill="#B8860B" font-family="sans-serif" font-weight="bold">z</text>
+  <text x="93" y="16" font-size="12" fill="#B8860B" font-family="sans-serif" font-weight="bold">z</text>
+  <!-- Feet -->
+  <ellipse cx="45" cy="102" rx="8" ry="4" fill="#B8860B"/>
+  <ellipse cx="75" cy="102" rx="8" ry="4" fill="#B8860B"/>
+  <!-- Sparkle details -->
+  <polygon points="18,50 19,46 20,50 24,51 20,52 19,56 18,52 14,51" fill="#FFF8DC"/>
+  <polygon points="102,50 103,47 104,50 107,51 104,52 103,55 102,52 99,51" fill="#FFF8DC"/>
+</svg>

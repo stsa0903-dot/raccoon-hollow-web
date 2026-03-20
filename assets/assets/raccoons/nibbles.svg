@@ -1,0 +1,66 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 200 200">
+  <!-- Nibbles - Chubby glutton raccoon, sitting, holding food, content half-closed eyes -->
+  <!-- Striped tail curled around side -->
+  <path d="M140 155 Q165 145 175 130 Q182 118 172 112 Q162 108 158 118 Q150 132 140 145" fill="#7a6040" stroke="#3a2a15" stroke-width="3.5"/>
+  <rect x="162" y="114" width="14" height="5" rx="2.5" fill="#3a2a15" stroke="none" transform="rotate(20 169 116)"/>
+  <rect x="158" y="123" width="16" height="5" rx="2.5" fill="#3a2a15" stroke="none" transform="rotate(10 166 125)"/>
+  <rect x="153" y="132" width="16" height="5" rx="2.5" fill="#3a2a15" stroke="none" transform="rotate(-5 161 134)"/>
+
+  <!-- Back legs (sitting, splayed out) -->
+  <ellipse cx="72" cy="172" rx="18" ry="10" fill="#7a6040" stroke="#3a2a15" stroke-width="3"/>
+  <ellipse cx="128" cy="172" rx="18" ry="10" fill="#7a6040" stroke="#3a2a15" stroke-width="3"/>
+  <!-- Feet -->
+  <ellipse cx="60" cy="176" rx="10" ry="6" fill="#4a3520" stroke="#3a2a15" stroke-width="2"/>
+  <ellipse cx="140" cy="176" rx="10" ry="6" fill="#4a3520" stroke="#3a2a15" stroke-width="2"/>
+
+  <!-- Chubby body -->
+  <ellipse cx="100" cy="140" rx="50" ry="42" fill="#7a6040" stroke="#3a2a15" stroke-width="3.5"/>
+  <!-- Big round belly -->
+  <ellipse cx="100" cy="148" rx="35" ry="30" fill="#c4a87a" stroke="none"/>
+
+  <!-- Arms holding food -->
+  <path d="M68 125 Q55 130 60 140 Q65 148 75 142" fill="#7a6040" stroke="#3a2a15" stroke-width="3"/>
+  <path d="M132 125 Q145 130 140 140 Q135 148 125 142" fill="#7a6040" stroke="#3a2a15" stroke-width="3"/>
+  <!-- Paws -->
+  <circle cx="76" cy="138" r="6" fill="#4a3520" stroke="#3a2a15" stroke-width="2"/>
+  <circle cx="124" cy="138" r="6" fill="#4a3520" stroke="#3a2a15" stroke-width="2"/>
+
+  <!-- Food item (acorn/berry) between paws -->
+  <ellipse cx="100" cy="133" rx="7" ry="8" fill="#cc4444" stroke="#3a2a15" stroke-width="2"/>
+  <path d="M96 126 L100 120 L104 126" fill="#44882a" stroke="#3a2a15" stroke-width="1.5"/>
+
+  <!-- Head -->
+  <ellipse cx="100" cy="75" rx="38" ry="34" fill="#7a6040" stroke="#3a2a15" stroke-width="3.5"/>
+
+  <!-- Ears -->
+  <ellipse cx="72" cy="48" rx="11" ry="13" fill="#7a6040" stroke="#3a2a15" stroke-width="3"/>
+  <ellipse cx="72" cy="48" rx="6" ry="8" fill="#d4a08a" stroke="none"/>
+  <ellipse cx="128" cy="48" rx="11" ry="13" fill="#7a6040" stroke="#3a2a15" stroke-width="3"/>
+  <ellipse cx="128" cy="48" rx="6" ry="8" fill="#d4a08a" stroke="none"/>
+
+  <!-- White face -->
+  <ellipse cx="100" cy="72" rx="28" ry="22" fill="#e8e0d8" stroke="none"/>
+
+  <!-- Black mask -->
+  <path d="M68 64 Q80 57 92 64 Q100 58 108 64 Q120 57 132 64 Q128 74 108 72 Q100 76 92 72 Q72 74 68 64Z" fill="#3a2a15" stroke="none"/>
+
+  <!-- Half-closed content eyes -->
+  <ellipse cx="85" cy="66" rx="6.5" ry="3.5" fill="white" stroke="none"/>
+  <ellipse cx="115" cy="66" rx="6.5" ry="3.5" fill="white" stroke="none"/>
+  <!-- Pupils -->
+  <ellipse cx="85" cy="67" rx="3.5" ry="2.5" fill="#3a2a15"/>
+  <ellipse cx="115" cy="67" rx="3.5" ry="2.5" fill="#3a2a15"/>
+  <!-- Eyelids (half closed) -->
+  <path d="M78 63 Q85 60 92 63" fill="#7a6040" stroke="none"/>
+  <path d="M108 63 Q115 60 122 63" fill="#7a6040" stroke="none"/>
+
+  <!-- Nose -->
+  <ellipse cx="100" cy="79" rx="5" ry="3.5" fill="#3a2a15" stroke="none"/>
+
+  <!-- Happy content smile -->
+  <path d="M90 84 Q100 90 110 84" fill="none" stroke="#3a2a15" stroke-width="2.5" stroke-linecap="round"/>
+
+  <!-- Rosy cheeks -->
+  <ellipse cx="76" cy="78" rx="5" ry="3.5" fill="#d4887a" opacity="0.5" stroke="none"/>
+  <ellipse cx="124" cy="78" rx="5" ry="3.5" fill="#d4887a" opacity="0.5" stroke="none"/>
+</svg>

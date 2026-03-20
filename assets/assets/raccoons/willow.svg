@@ -1,0 +1,45 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 120 120">
+  <!-- Willow branches drooping around -->
+  <path d="M15,8 Q18,30 14,55" fill="none" stroke="#8AB878" stroke-width="2" opacity="0.5"/>
+  <path d="M22,5 Q24,28 20,50" fill="none" stroke="#8AB878" stroke-width="1.5" opacity="0.4"/>
+  <path d="M105,8 Q102,30 106,55" fill="none" stroke="#8AB878" stroke-width="2" opacity="0.5"/>
+  <path d="M98,5 Q96,28 100,50" fill="none" stroke="#8AB878" stroke-width="1.5" opacity="0.4"/>
+  <!-- Body -->
+  <ellipse cx="60" cy="74" rx="25" ry="28" fill="#A8B898"/>
+  <!-- Belly -->
+  <ellipse cx="60" cy="80" rx="16" ry="18" fill="#C8D8B8"/>
+  <!-- Tail - droopy -->
+  <path d="M85,72 Q94,78 98,90 Q100,100 94,98 Q90,94 88,84" fill="#A8B898" stroke="#788868" stroke-width="1"/>
+  <path d="M91,90 Q96,96 97,98" fill="none" stroke="#788868" stroke-width="3"/>
+  <path d="M89,86 Q94,92 95,94" fill="none" stroke="#C8D8B8" stroke-width="2"/>
+  <!-- Head - slightly drooping -->
+  <circle cx="60" cy="40" r="22" fill="#B0C0A0"/>
+  <!-- Ears - droopy -->
+  <ellipse cx="42" cy="24" rx="8" ry="8" fill="#B0C0A0" transform="rotate(-10,42,24)"/>
+  <ellipse cx="42" cy="24" rx="5" ry="5" fill="#C8D8B8"/>
+  <ellipse cx="78" cy="24" rx="8" ry="8" fill="#B0C0A0" transform="rotate(10,78,24)"/>
+  <ellipse cx="78" cy="24" rx="5" ry="5" fill="#C8D8B8"/>
+  <!-- Mask -->
+  <path d="M38,34 Q50,30 60,36 Q70,30 82,34 Q78,44 60,44 Q42,44 38,34Z" fill="#607850"/>
+  <!-- Eyes - shy, downcast -->
+  <ellipse cx="50" cy="37" rx="5" ry="4" fill="white"/>
+  <ellipse cx="70" cy="37" rx="5" ry="4" fill="white"/>
+  <circle cx="49" cy="38" r="2.5" fill="#111"/>
+  <circle cx="69" cy="38" r="2.5" fill="#111"/>
+  <!-- Sad/shy brows -->
+  <path d="M44,31 Q48,33 54,32" fill="none" stroke="#607850" stroke-width="1.5" stroke-linecap="round"/>
+  <path d="M66,32 Q72,33 76,31" fill="none" stroke="#607850" stroke-width="1.5" stroke-linecap="round"/>
+  <!-- Nose -->
+  <ellipse cx="60" cy="44" rx="3" ry="2" fill="#222"/>
+  <!-- Small worried mouth -->
+  <path d="M57,48 Q60,46 63,48" fill="none" stroke="#222" stroke-width="1" stroke-linecap="round"/>
+  <!-- Blush -->
+  <circle cx="43" cy="42" r="4" fill="#C0A0A0" opacity="0.3"/>
+  <circle cx="77" cy="42" r="4" fill="#C0A0A0" opacity="0.3"/>
+  <!-- Feet -->
+  <ellipse cx="48" cy="100" rx="10" ry="5" fill="#788868"/>
+  <ellipse cx="72" cy="100" rx="10" ry="5" fill="#788868"/>
+  <!-- Arms - clasped together shyly -->
+  <path d="M38,64 Q34,72 38,78" fill="none" stroke="#A8B898" stroke-width="6" stroke-linecap="round"/>
+  <path d="M82,64 Q86,72 82,78" fill="none" stroke="#A8B898" stroke-width="6" stroke-linecap="round"/>
+</svg>

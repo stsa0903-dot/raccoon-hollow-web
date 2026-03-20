@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100">
+  <!-- Cheese wedge - main face -->
+  <polygon points="15,75 85,75 50,20" fill="#FFD700" stroke="#4A3728" stroke-width="2.5" stroke-linejoin="round"/>
+  <!-- Cheese wedge - side face (gives 3D look) -->
+  <polygon points="85,75 50,20 65,25 90,78" fill="#DAA520" stroke="#4A3728" stroke-width="2.5" stroke-linejoin="round"/>
+  <!-- Rind on bottom -->
+  <line x1="15" y1="75" x2="90" y2="78" stroke="#B8860B" stroke-width="4" stroke-linecap="round"/>
+  <!-- Cheese holes - front face -->
+  <ellipse cx="40" cy="55" rx="7" ry="6" fill="#DAA520" stroke="#4A3728" stroke-width="1.5"/>
+  <ellipse cx="55" cy="65" rx="5" ry="4.5" fill="#DAA520" stroke="#4A3728" stroke-width="1.5"/>
+  <ellipse cx="35" cy="40" rx="4" ry="3.5" fill="#DAA520" stroke="#4A3728" stroke-width="1.5"/>
+  <ellipse cx="60" cy="50" rx="3.5" ry="3" fill="#DAA520" stroke="#4A3728" stroke-width="1.5"/>
+  <ellipse cx="28" cy="62" rx="4.5" ry="4" fill="#DAA520" stroke="#4A3728" stroke-width="1.5"/>
+  <!-- Side face hole -->
+  <ellipse cx="75" cy="55" rx="3" ry="4" fill="#C49B18" stroke="#4A3728" stroke-width="1.5"/>
+</svg>

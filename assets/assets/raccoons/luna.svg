@@ -1,0 +1,50 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 200 200">
+  <!-- Luna - Nocturnal, Uncommon - Elegant sitting, crescent moon marking, large luminous eyes -->
+  <!-- Tail elegantly draped -->
+  <path d="M40,160 Q20,145 15,125 Q10,105 20,95 Q30,88 38,100 Q42,110 45,125" fill="#D8D0E0" stroke="#2D2D2D" stroke-width="3.5" stroke-linecap="round"/>
+  <path d="M18,120 Q24,114 30,118" fill="none" stroke="#7A8BA0" stroke-width="4" stroke-linecap="round"/>
+  <path d="M16,110 Q22,104 28,108" fill="none" stroke="#7A8BA0" stroke-width="4" stroke-linecap="round"/>
+  <path d="M19,101 Q24,96 28,100" fill="none" stroke="#7A8BA0" stroke-width="3.5" stroke-linecap="round"/>
+  <!-- Body - elegant upright sitting -->
+  <ellipse cx="100" cy="140" rx="40" ry="45" fill="#D8D0E0" stroke="#2D2D2D" stroke-width="3.5"/>
+  <!-- Belly -->
+  <ellipse cx="100" cy="145" rx="25" ry="30" fill="#EDE8F2"/>
+  <!-- Head -->
+  <circle cx="100" cy="68" r="36" fill="#D8D0E0" stroke="#2D2D2D" stroke-width="3.5"/>
+  <!-- Face mask - blue-gray -->
+  <path d="M74,58 Q84,48 100,54 Q116,48 126,58 Q120,74 100,78 Q80,74 74,58Z" fill="#7A8BA0"/>
+  <!-- Light forehead -->
+  <path d="M88,52 Q100,46 112,52 Q100,56 88,52Z" fill="#C8C0D0"/>
+  <!-- Crescent moon marking on forehead -->
+  <path d="M95,42 Q92,36 96,32 Q102,30 106,34 Q108,38 105,42 Q102,38 98,38 Q95,39 95,42Z" fill="#F0E68C" stroke="#D4C85A" stroke-width="1.5"/>
+  <!-- Large luminous eyes -->
+  <ellipse cx="87" cy="63" rx="9" ry="10" fill="#FFFFFF" stroke="#2D2D2D" stroke-width="2"/>
+  <ellipse cx="88" cy="64" rx="5.5" ry="6.5" fill="#4A6E8A"/>
+  <ellipse cx="88" cy="64" rx="3" ry="3.5" fill="#2D2D2D"/>
+  <circle cx="90" cy="61.5" r="2" fill="#FFFFFF"/>
+  <circle cx="86" cy="66" r="1" fill="#FFFFFF" opacity="0.6"/>
+  <ellipse cx="113" cy="63" rx="9" ry="10" fill="#FFFFFF" stroke="#2D2D2D" stroke-width="2"/>
+  <ellipse cx="114" cy="64" rx="5.5" ry="6.5" fill="#4A6E8A"/>
+  <ellipse cx="114" cy="64" rx="3" ry="3.5" fill="#2D2D2D"/>
+  <circle cx="116" cy="61.5" r="2" fill="#FFFFFF"/>
+  <circle cx="112" cy="66" r="1" fill="#FFFFFF" opacity="0.6"/>
+  <!-- Nose -->
+  <ellipse cx="100" cy="72" rx="4.5" ry="3" fill="#2D2D2D"/>
+  <!-- Serene gentle smile -->
+  <path d="M94,76 Q100,80 106,76" fill="none" stroke="#2D2D2D" stroke-width="2" stroke-linecap="round"/>
+  <!-- Ears - tall and elegant -->
+  <path d="M70,46 Q62,22 78,36" fill="#D8D0E0" stroke="#2D2D2D" stroke-width="3" stroke-linecap="round"/>
+  <path d="M72,38 Q67,28 76,37" fill="#E8B4C8"/>
+  <path d="M130,46 Q138,22 122,36" fill="#D8D0E0" stroke="#2D2D2D" stroke-width="3" stroke-linecap="round"/>
+  <path d="M128,38 Q133,28 124,37" fill="#E8B4C8"/>
+  <!-- Paws together, dainty pose -->
+  <ellipse cx="88" cy="170" rx="10" ry="7" fill="#D8D0E0" stroke="#2D2D2D" stroke-width="3"/>
+  <ellipse cx="112" cy="170" rx="10" ry="7" fill="#D8D0E0" stroke="#2D2D2D" stroke-width="3"/>
+  <!-- Front paws resting -->
+  <ellipse cx="75" cy="148" rx="9" ry="7" fill="#D8D0E0" stroke="#2D2D2D" stroke-width="3"/>
+  <ellipse cx="125" cy="148" rx="9" ry="7" fill="#D8D0E0" stroke="#2D2D2D" stroke-width="3"/>
+  <!-- Small stars near Luna -->
+  <path d="M30,50 L32,44 L34,50 L28,47 L36,47Z" fill="#F0E68C" opacity="0.6"/>
+  <path d="M165,40 L166.5,36 L168,40 L164,38 L170,38Z" fill="#F0E68C" opacity="0.5"/>
+  <path d="M155,70 L156,67 L157,70 L154,69 L159,69Z" fill="#F0E68C" opacity="0.4"/>
+</svg>

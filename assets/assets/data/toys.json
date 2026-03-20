@@ -1,0 +1,74 @@
+[
+  {
+    "id": "cardboard_box",
+    "name": "Cardboard Box",
+    "category": "play",
+    "coinCost": 15,
+    "charmValue": 3,
+    "attractsPersonality": "curious"
+  },
+  {
+    "id": "shiny_marble",
+    "name": "Shiny Marble",
+    "category": "shiny",
+    "coinCost": 20,
+    "charmValue": 4,
+    "attractsPersonality": "mischievous"
+  },
+  {
+    "id": "climbing_rope",
+    "name": "Climbing Rope",
+    "category": "play",
+    "coinCost": 25,
+    "charmValue": 5,
+    "attractsPersonality": "adventurous"
+  },
+  {
+    "id": "pillow_pile",
+    "name": "Pillow Pile",
+    "category": "comfort",
+    "coinCost": 20,
+    "charmValue": 4,
+    "attractsPersonality": "lazy"
+  },
+  {
+    "id": "blanket_fort",
+    "name": "Blanket Fort",
+    "category": "comfort",
+    "coinCost": 30,
+    "charmValue": 6,
+    "attractsPersonality": "shy"
+  },
+  {
+    "id": "hammock",
+    "name": "Hammock",
+    "category": "comfort",
+    "coinCost": 35,
+    "charmValue": 7,
+    "attractsPersonality": "lazy"
+  },
+  {
+    "id": "ball_of_yarn",
+    "name": "Ball of Yarn",
+    "category": "play",
+    "coinCost": 12,
+    "charmValue": 3,
+    "attractsPersonality": "social"
+  },
+  {
+    "id": "magic_hat",
+    "name": "Magic Hat",
+    "category": "shiny",
+    "coinCost": 40,
+    "charmValue": 8,
+    "attractsPersonality": "mischievous"
+  },
+  {
+    "id": "crystal_ball",
+    "name": "Crystal Ball",
+    "category": "shiny",
+    "coinCost": 50,
+    "charmValue": 10,
+    "attractsPersonality": "nocturnal"
+  }
+]

@@ -1,0 +1,43 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 120 120">
+  <!-- sprout - curious, light green-brown, sniffing -->
+  <!-- Tail -->
+  <ellipse cx="86" cy="80" rx="16" ry="7" fill="#8A9A60" transform="rotate(-18 86 80)"/>
+  <ellipse cx="91" cy="77" rx="12" ry="5" fill="#4A5030" transform="rotate(-18 91 77)"/>
+  <ellipse cx="96" cy="74" rx="8" ry="4" fill="#8A9A60" transform="rotate(-18 96 74)"/>
+  <!-- Body -->
+  <ellipse cx="55" cy="74" rx="22" ry="26" fill="#8A9A60"/>
+  <ellipse cx="55" cy="77" rx="16" ry="18" fill="#B8C890"/>
+  <!-- Arms - one reaching forward to sniff -->
+  <ellipse cx="36" cy="68" rx="5" ry="10" fill="#8A9A60" transform="rotate(15 36 68)"/>
+  <ellipse cx="74" cy="66" rx="5" ry="10" fill="#8A9A60" transform="rotate(-20 74 66)"/>
+  <!-- Legs -->
+  <ellipse cx="44" cy="97" rx="7" ry="5" fill="#5A6A40"/>
+  <ellipse cx="66" cy="97" rx="7" ry="5" fill="#5A6A40"/>
+  <!-- Head - leaning forward sniffing -->
+  <circle cx="55" cy="38" r="19" fill="#8A9A60"/>
+  <!-- Ears -->
+  <circle cx="39" cy="22" r="6" fill="#8A9A60"/>
+  <circle cx="39" cy="22" r="3.5" fill="#C0A890"/>
+  <circle cx="71" cy="22" r="6" fill="#8A9A60"/>
+  <circle cx="71" cy="22" r="3.5" fill="#C0A890"/>
+  <!-- Mask -->
+  <ellipse cx="45" cy="36" rx="10" ry="7" fill="#4A5030"/>
+  <ellipse cx="65" cy="36" rx="10" ry="7" fill="#4A5030"/>
+  <!-- Eyes - bright curious -->
+  <circle cx="47" cy="36" r="4" fill="white"/>
+  <circle cx="63" cy="36" r="4" fill="white"/>
+  <circle cx="48" cy="35" r="2.2" fill="#3A5A2A"/>
+  <circle cx="64" cy="35" r="2.2" fill="#3A5A2A"/>
+  <!-- Nose - prominent, sniffing -->
+  <ellipse cx="55" cy="43" rx="3.5" ry="2.5" fill="#1A1A1A"/>
+  <!-- Sniff lines -->
+  <path d="M60 41 Q63 40 65 38" fill="none" stroke="#6A7A50" stroke-width="0.8" opacity="0.6"/>
+  <path d="M61 43 Q64 42 67 41" fill="none" stroke="#6A7A50" stroke-width="0.8" opacity="0.6"/>
+  <path d="M60 45 Q63 44 65 43" fill="none" stroke="#6A7A50" stroke-width="0.8" opacity="0.6"/>
+  <!-- Curious mouth -->
+  <path d="M50 47 Q55 49 60 47" fill="none" stroke="#1A1A1A" stroke-width="1" stroke-linecap="round"/>
+  <!-- Small sprout on head -->
+  <line x1="55" y1="19" x2="55" y2="12" stroke="#5A8A30" stroke-width="1.5"/>
+  <circle cx="52" cy="11" r="2.5" fill="#7AB840"/>
+  <circle cx="58" cy="11" r="2.5" fill="#7AB840"/>
+</svg>

@@ -1,0 +1,1444 @@
+[
+  {
+    "id": "bandit",
+    "name": "Bandit",
+    "rarity": "common",
+    "personality": "mischievous",
+    "bio": "A sly raccoon who can't resist shiny objects. Known for swiping trinkets right out from under your nose.",
+    "favoriteFood": "pizza_slice",
+    "favoriteToy": "shiny_marble",
+    "visitRequirements": {
+      "minHideoutLevel": 1,
+      "requiredFoodTier": "basic",
+      "weatherPreference": null,
+      "timePreference": "night"
+    },
+    "baseVisitChance": 0.15,
+    "trinketPool": [
+      "bottle_cap",
+      "button",
+      "paperclip",
+      "foil_ball",
+      "coin"
+    ],
+    "friendshipRewards": {
+      "level5": "bio_unlock",
+      "level10": "memento_bottle_cap_collection"
+    }
+  },
+  {
+    "id": "patches",
+    "name": "Patches",
+    "rarity": "common",
+    "personality": "curious",
+    "bio": "An endlessly curious raccoon who treats every scrap of paper like a treasure map. She once unfolded a grocery list and followed it across three backyards.",
+    "favoriteFood": "berries",
+    "favoriteToy": "cardboard_box",
+    "visitRequirements": {
+      "minHideoutLevel": 1,
+      "requiredFoodTier": "basic",
+      "weatherPreference": null,
+      "timePreference": null
+    },
+    "baseVisitChance": 0.12,
+    "trinketPool": [
+      "torn_map",
+      "crumpled_note",
+      "postcard",
+      "bookmark",
+      "paper_crane"
+    ],
+    "friendshipRewards": {
+      "level5": "bio_unlock",
+      "level10": "memento_patchwork_scrapbook"
+    }
+  },
+  {
+    "id": "nibbles",
+    "name": "Nibbles",
+    "rarity": "common",
+    "personality": "glutton",
+    "bio": "A round little raccoon with an insatiable appetite. Nibbles has never met a snack he didn't love, and his cheeks are always suspiciously full.",
+    "favoriteFood": "sushi_rolls",
+    "favoriteToy": "ball_of_yarn",
+    "visitRequirements": {
+      "minHideoutLevel": 1,
+      "requiredFoodTier": "basic",
+      "weatherPreference": null,
+      "timePreference": null
+    },
+    "baseVisitChance": 0.14,
+    "trinketPool": [
+      "recipe_card",
+      "wooden_spoon",
+      "tiny_fork",
+      "sugar_packet",
+      "candy_wrapper"
+    ],
+    "friendshipRewards": {
+      "level5": "bio_unlock",
+      "level10": "memento_golden_spork"
+    }
+  },
+  {
+    "id": "shadow",
+    "name": "Shadow",
+    "rarity": "common",
+    "personality": "nocturnal",
+    "bio": "A quiet raccoon who moves like a whisper through the dark. You'll never see Shadow arrive, but you'll always find proof she was there.",
+    "favoriteFood": "kibble",
+    "favoriteToy": "blanket_fort",
+    "visitRequirements": {
+      "minHideoutLevel": 1,
+      "requiredFoodTier": "basic",
+      "weatherPreference": null,
+      "timePreference": "night"
+    },
+    "baseVisitChance": 0.1,
+    "trinketPool": [
+      "old_key",
+      "dark_stone",
+      "black_feather",
+      "obsidian_shard",
+      "mystery_locket"
+    ],
+    "friendshipRewards": {
+      "level5": "bio_unlock",
+      "level10": "memento_shadow_charm"
+    }
+  },
+  {
+    "id": "tumble",
+    "name": "Tumble",
+    "rarity": "common",
+    "personality": "adventurous",
+    "bio": "A daring raccoon who treats every rooftop like a mountain summit. Tumble has scraped knees and a heart full of wanderlust.",
+    "favoriteFood": "trail_mix",
+    "favoriteToy": "climbing_rope",
+    "visitRequirements": {
+      "minHideoutLevel": 1,
+      "requiredFoodTier": "basic",
+      "weatherPreference": "clear",
+      "timePreference": null
+    },
+    "baseVisitChance": 0.11,
+    "trinketPool": [
+      "feather",
+      "pine_cone",
+      "acorn",
+      "smooth_pebble",
+      "twig_compass"
+    ],
+    "friendshipRewards": {
+      "level5": "bio_unlock",
+      "level10": "memento_explorer_badge"
+    }
+  },
+  {
+    "id": "whisper",
+    "name": "Whisper",
+    "rarity": "common",
+    "personality": "shy",
+    "bio": "A timid raccoon who peeks around corners before entering a room. Whisper leaves the gentlest gifts and vanishes before anyone can say thank you.",
+    "favoriteFood": "honey_pot",
+    "favoriteToy": "pillow_pile",
+    "visitRequirements": {
+      "minHideoutLevel": 1,
+      "requiredFoodTier": "basic",
+      "weatherPreference": null,
+      "timePreference": null,
+      "maxOtherVisitors": 2
+    },
+    "baseVisitChance": 0.07,
+    "trinketPool": [
+      "pressed_flower",
+      "ribbon",
+      "dried_lavender",
+      "tiny_bell",
+      "glass_bead"
+    ],
+    "friendshipRewards": {
+      "level5": "bio_unlock",
+      "level10": "memento_flower_crown"
+    }
+  },
+  {
+    "id": "biscuit",
+    "name": "Biscuit",
+    "rarity": "common",
+    "personality": "social",
+    "bio": "A warm-hearted raccoon who always shows up where the party is. Biscuit loves company and has never turned down an invitation.",
+    "favoriteFood": "bread_crusts",
+    "favoriteToy": "ball_of_yarn",
+    "visitRequirements": {
+      "minHideoutLevel": 1,
+      "requiredFoodTier": "basic",
+      "weatherPreference": null,
+      "timePreference": null,
+      "bonusWhenOtherVisitors": true
+    },
+    "baseVisitChance": 0.13,
+    "trinketPool": [
+      "button",
+      "thread_spool",
+      "knit_patch",
+      "thimble",
+      "yarn_ball"
+    ],
+    "friendshipRewards": {
+      "level5": "bio_unlock",
+      "level10": "memento_friendship_bracelet"
+    }
+  },
+  {
+    "id": "dozer",
+    "name": "Dozer",
+    "rarity": "common",
+    "personality": "lazy",
+    "bio": "A drowsy raccoon who naps in sunbeams and considers yawning a hobby. Dozer moves slowly but always finds the comfiest spot in the hideout.",
+    "favoriteFood": "bread_crusts",
+    "favoriteToy": "hammock",
+    "visitRequirements": {
+      "minHideoutLevel": 1,
+      "requiredFoodTier": "basic",
+      "weatherPreference": null,
+      "timePreference": "afternoon"
+    },
+    "baseVisitChance": 0.12,
+    "trinketPool": [
+      "fabric_scrap",
+      "pillow_fluff",
+      "soft_patch",
+      "cotton_ball",
+      "warm_sock"
+    ],
+    "friendshipRewards": {
+      "level5": "bio_unlock",
+      "level10": "memento_patchwork_blanket"
+    }
+  },
+  {
+    "id": "rascal",
+    "name": "Rascal",
+    "rarity": "uncommon",
+    "personality": "mischievous",
+    "bio": "A crafty raccoon with a flair for the dramatic. Rascal pulls off heists that would make a magician jealous, and always leaves a calling card behind.",
+    "favoriteFood": "gourmet_cheese",
+    "favoriteToy": "magic_hat",
+    "visitRequirements": {
+      "minHideoutLevel": 3,
+      "requiredFoodTier": "premium",
+      "weatherPreference": null,
+      "timePreference": "night"
+    },
+    "baseVisitChance": 0.06,
+    "trinketPool": [
+      "gilded_button",
+      "velvet_ribbon",
+      "silver_coin",
+      "jeweled_pin",
+      "calling_card"
+    ],
+    "friendshipRewards": {
+      "level5": "bio_unlock",
+      "level10": "memento_trick_deck"
+    }
+  },
+  {
+    "id": "luna",
+    "name": "Luna",
+    "rarity": "uncommon",
+    "personality": "nocturnal",
+    "bio": "A mysterious raccoon who only appears under starlit skies. Luna seems to glow faintly in the moonlight, and the trinkets she leaves behind shimmer with an otherworldly gleam.",
+    "favoriteFood": "moonberry_tart",
+    "favoriteToy": "crystal_ball",
+    "visitRequirements": {
+      "minHideoutLevel": 4,
+      "requiredFoodTier": "premium",
+      "weatherPreference": "clear",
+      "timePreference": "night"
+    },
+    "baseVisitChance": 0.04,
+    "trinketPool": [
+      "moonstone",
+      "star_fragment",
+      "lunar_moth_wing",
+      "night_blossom",
+      "celestial_charm"
+    ],
+    "friendshipRewards": {
+      "level5": "bio_unlock",
+      "level10": "memento_crescent_pendant"
+    }
+  },
+  {
+    "id": "clover",
+    "name": "Clover",
+    "rarity": "common",
+    "personality": "curious",
+    "bio": "A bright-eyed raccoon who believes every garden hides a secret. Clover digs up more mysteries than vegetables.",
+    "favoriteFood": "berries",
+    "favoriteToy": "cardboard_box",
+    "visitRequirements": {
+      "minHideoutLevel": 1,
+      "requiredFoodTier": "basic",
+      "weatherPreference": null,
+      "timePreference": "morning"
+    },
+    "baseVisitChance": 0.12,
+    "trinketPool": [
+      "four_leaf_clover",
+      "seed_packet",
+      "garden_tag",
+      "dried_daisy",
+      "tiny_trowel"
+    ],
+    "friendshipRewards": {
+      "level5": "bio_unlock",
+      "level10": "memento_lucky_clover_pressed"
+    }
+  },
+  {
+    "id": "muffin",
+    "name": "Muffin",
+    "rarity": "common",
+    "personality": "glutton",
+    "bio": "A plump raccoon whose nose can detect crumbs from three blocks away. Muffin considers second breakfast a fundamental right.",
+    "favoriteFood": "bread_crusts",
+    "favoriteToy": "pillow_pile",
+    "visitRequirements": {
+      "minHideoutLevel": 1,
+      "requiredFoodTier": "basic",
+      "weatherPreference": null,
+      "timePreference": null
+    },
+    "baseVisitChance": 0.14,
+    "trinketPool": [
+      "crumb_trail",
+      "mini_rolling_pin",
+      "cupcake_liner",
+      "dough_ball",
+      "flour_dusted_pawprint"
+    ],
+    "friendshipRewards": {
+      "level5": "bio_unlock",
+      "level10": "memento_golden_muffin_tin"
+    }
+  },
+  {
+    "id": "scooter",
+    "name": "Scooter",
+    "rarity": "common",
+    "personality": "adventurous",
+    "bio": "A fast-footed raccoon who treats every fence as a starting line. Scooter has mapped every shortcut in the neighborhood.",
+    "favoriteFood": "trail_mix",
+    "favoriteToy": "climbing_rope",
+    "visitRequirements": {
+      "minHideoutLevel": 1,
+      "requiredFoodTier": "basic",
+      "weatherPreference": "clear",
+      "timePreference": null
+    },
+    "baseVisitChance": 0.11,
+    "trinketPool": [
+      "worn_sneaker_lace",
+      "tiny_compass",
+      "trail_marker",
+      "wheel_bearing",
+      "speed_stripe_sticker"
+    ],
+    "friendshipRewards": {
+      "level5": "bio_unlock",
+      "level10": "memento_speedster_goggles"
+    }
+  },
+  {
+    "id": "pudding",
+    "name": "Pudding",
+    "rarity": "common",
+    "personality": "lazy",
+    "bio": "A wobbly raccoon who firmly believes that napping is an art form. Pudding has perfected the ability to fall asleep mid-chew.",
+    "favoriteFood": "honey_pot",
+    "favoriteToy": "hammock",
+    "visitRequirements": {
+      "minHideoutLevel": 1,
+      "requiredFoodTier": "basic",
+      "weatherPreference": null,
+      "timePreference": "afternoon"
+    },
+    "baseVisitChance": 0.13,
+    "trinketPool": [
+      "sleep_mask",
+      "fuzzy_slipper",
+      "snore_whistle",
+      "dream_journal_page",
+      "soft_blanket_scrap"
+    ],
+    "friendshipRewards": {
+      "level5": "bio_unlock",
+      "level10": "memento_cloud_pillow"
+    }
+  },
+  {
+    "id": "fidget",
+    "name": "Fidget",
+    "rarity": "common",
+    "personality": "mischievous",
+    "bio": "A twitchy raccoon who cannot sit still for more than three seconds. Fidget rearranges everything she touches, mostly for the chaos of it.",
+    "favoriteFood": "apple_cores",
+    "favoriteToy": "ball_of_yarn",
+    "visitRequirements": {
+      "minHideoutLevel": 1,
+      "requiredFoodTier": "basic",
+      "weatherPreference": null,
+      "timePreference": "evening"
+    },
+    "baseVisitChance": 0.12,
+    "trinketPool": [
+      "rubber_band",
+      "fidget_spring",
+      "spinning_top",
+      "wind_up_key",
+      "jacks_piece"
+    ],
+    "friendshipRewards": {
+      "level5": "bio_unlock",
+      "level10": "memento_perpetual_motion_toy"
+    }
+  },
+  {
+    "id": "ember",
+    "name": "Ember",
+    "rarity": "common",
+    "personality": "nocturnal",
+    "bio": "A warm-furred raccoon drawn to anything that glows. Ember sits mesmerized by campfire light and collects anything that flickers.",
+    "favoriteFood": "kibble",
+    "favoriteToy": "blanket_fort",
+    "visitRequirements": {
+      "minHideoutLevel": 1,
+      "requiredFoodTier": "basic",
+      "weatherPreference": null,
+      "timePreference": "night"
+    },
+    "baseVisitChance": 0.1,
+    "trinketPool": [
+      "matchbox",
+      "ember_stone",
+      "candle_stub",
+      "firefly_jar",
+      "charcoal_sketch"
+    ],
+    "friendshipRewards": {
+      "level5": "bio_unlock",
+      "level10": "memento_lantern_charm"
+    }
+  },
+  {
+    "id": "pebble",
+    "name": "Pebble",
+    "rarity": "common",
+    "personality": "shy",
+    "bio": "A tiny raccoon who hides behind rocks and watches from a safe distance. Pebble leaves small stone arrangements as gifts when no one is looking.",
+    "favoriteFood": "berries",
+    "favoriteToy": "pillow_pile",
+    "visitRequirements": {
+      "minHideoutLevel": 1,
+      "requiredFoodTier": "basic",
+      "weatherPreference": null,
+      "timePreference": null,
+      "maxOtherVisitors": 2
+    },
+    "baseVisitChance": 0.08,
+    "trinketPool": [
+      "smooth_river_stone",
+      "quartz_chip",
+      "slate_piece",
+      "geode_fragment",
+      "polished_agate"
+    ],
+    "friendshipRewards": {
+      "level5": "bio_unlock",
+      "level10": "memento_cairn_sculpture"
+    }
+  },
+  {
+    "id": "waffles",
+    "name": "Waffles",
+    "rarity": "common",
+    "personality": "social",
+    "bio": "A chatty raccoon who greets everyone with enthusiastic chirps. Waffles organizes neighborhood gatherings and nobody knows how the invitations get delivered.",
+    "favoriteFood": "bread_crusts",
+    "favoriteToy": "ball_of_yarn",
+    "visitRequirements": {
+      "minHideoutLevel": 1,
+      "requiredFoodTier": "basic",
+      "weatherPreference": null,
+      "timePreference": null,
+      "bonusWhenOtherVisitors": true
+    },
+    "baseVisitChance": 0.13,
+    "trinketPool": [
+      "party_streamer",
+      "tiny_invitation",
+      "confetti_piece",
+      "party_hat_scrap",
+      "noisemaker"
+    ],
+    "friendshipRewards": {
+      "level5": "bio_unlock",
+      "level10": "memento_party_planning_kit"
+    }
+  },
+  {
+    "id": "dusty",
+    "name": "Dusty",
+    "rarity": "common",
+    "personality": "curious",
+    "bio": "An old-souled raccoon fascinated by forgotten things. Dusty rummages through attics and crawlspaces, convinced that the past holds the best treasures.",
+    "favoriteFood": "kibble",
+    "favoriteToy": "cardboard_box",
+    "visitRequirements": {
+      "minHideoutLevel": 1,
+      "requiredFoodTier": "basic",
+      "weatherPreference": null,
+      "timePreference": "afternoon"
+    },
+    "baseVisitChance": 0.11,
+    "trinketPool": [
+      "rusty_hinge",
+      "antique_key",
+      "faded_photograph",
+      "brass_gear",
+      "vintage_stamp"
+    ],
+    "friendshipRewards": {
+      "level5": "bio_unlock",
+      "level10": "memento_antique_pocket_watch"
+    }
+  },
+  {
+    "id": "sprout",
+    "name": "Sprout",
+    "rarity": "common",
+    "personality": "adventurous",
+    "bio": "A young raccoon bursting with energy who thinks every puddle is an ocean and every hill is a mountain. Sprout's enthusiasm is wildly contagious.",
+    "favoriteFood": "apple_cores",
+    "favoriteToy": "climbing_rope",
+    "visitRequirements": {
+      "minHideoutLevel": 1,
+      "requiredFoodTier": "basic",
+      "weatherPreference": null,
+      "timePreference": "morning"
+    },
+    "baseVisitChance": 0.12,
+    "trinketPool": [
+      "oak_leaf",
+      "dandelion_puff",
+      "seedling_pot",
+      "bark_chip",
+      "moss_clump"
+    ],
+    "friendshipRewards": {
+      "level5": "bio_unlock",
+      "level10": "memento_tiny_treehouse_model"
+    }
+  },
+  {
+    "id": "snickers",
+    "name": "Snickers",
+    "rarity": "common",
+    "personality": "mischievous",
+    "bio": "A giggling raccoon who finds everything hilarious, especially his own pranks. Snickers once swapped every sock in a laundry basket with pinecones.",
+    "favoriteFood": "pizza_slice",
+    "favoriteToy": "shiny_marble",
+    "visitRequirements": {
+      "minHideoutLevel": 2,
+      "requiredFoodTier": "basic",
+      "weatherPreference": null,
+      "timePreference": "evening"
+    },
+    "baseVisitChance": 0.1,
+    "trinketPool": [
+      "whoopee_cushion_scrap",
+      "joy_buzzer",
+      "fake_spider",
+      "stink_bomb_cap",
+      "giggle_box"
+    ],
+    "friendshipRewards": {
+      "level5": "bio_unlock",
+      "level10": "memento_prankster_trophy"
+    }
+  },
+  {
+    "id": "tater",
+    "name": "Tater",
+    "rarity": "common",
+    "personality": "glutton",
+    "bio": "A stout raccoon who evaluates every hideout by the quality of its snack storage. Tater keeps a mental map of every food stash within a mile radius.",
+    "favoriteFood": "pizza_slice",
+    "favoriteToy": "hammock",
+    "visitRequirements": {
+      "minHideoutLevel": 2,
+      "requiredFoodTier": "basic",
+      "weatherPreference": null,
+      "timePreference": null
+    },
+    "baseVisitChance": 0.13,
+    "trinketPool": [
+      "potato_chip_bag",
+      "pretzel_twist",
+      "cracker_crumb",
+      "snack_wrapper",
+      "popcorn_kernel"
+    ],
+    "friendshipRewards": {
+      "level5": "bio_unlock",
+      "level10": "memento_snack_vault_key"
+    }
+  },
+  {
+    "id": "dusk",
+    "name": "Dusk",
+    "rarity": "common",
+    "personality": "nocturnal",
+    "bio": "A contemplative raccoon who appears at the border between day and night. Dusk watches sunsets with quiet reverence before beginning her nightly rounds.",
+    "favoriteFood": "honey_pot",
+    "favoriteToy": "blanket_fort",
+    "visitRequirements": {
+      "minHideoutLevel": 2,
+      "requiredFoodTier": "basic",
+      "weatherPreference": null,
+      "timePreference": "evening"
+    },
+    "baseVisitChance": 0.09,
+    "trinketPool": [
+      "sunset_shell",
+      "twilight_crystal",
+      "dusk_moth",
+      "amber_drop",
+      "evening_primrose"
+    ],
+    "friendshipRewards": {
+      "level5": "bio_unlock",
+      "level10": "memento_twilight_brooch"
+    }
+  },
+  {
+    "id": "maple",
+    "name": "Maple",
+    "rarity": "common",
+    "personality": "social",
+    "bio": "A sweet-natured raccoon who remembers every visitor's name and favorite snack. Maple makes every guest feel like they have been expected all along.",
+    "favoriteFood": "berries",
+    "favoriteToy": "ball_of_yarn",
+    "visitRequirements": {
+      "minHideoutLevel": 2,
+      "requiredFoodTier": "basic",
+      "weatherPreference": null,
+      "timePreference": null,
+      "bonusWhenOtherVisitors": true
+    },
+    "baseVisitChance": 0.12,
+    "trinketPool": [
+      "maple_leaf",
+      "syrup_vial",
+      "autumn_berry",
+      "cinnamon_stick",
+      "warm_acorn"
+    ],
+    "friendshipRewards": {
+      "level5": "bio_unlock",
+      "level10": "memento_welcome_wreath"
+    }
+  },
+  {
+    "id": "moth",
+    "name": "Moth",
+    "rarity": "common",
+    "personality": "shy",
+    "bio": "A delicate raccoon who drifts in silently and is startled by sudden noises. Moth is drawn to soft lamplight and will sit near a glow for hours.",
+    "favoriteFood": "bread_crusts",
+    "favoriteToy": "pillow_pile",
+    "visitRequirements": {
+      "minHideoutLevel": 1,
+      "requiredFoodTier": "basic",
+      "weatherPreference": null,
+      "timePreference": "night",
+      "maxOtherVisitors": 1
+    },
+    "baseVisitChance": 0.08,
+    "trinketPool": [
+      "moth_wing_scale",
+      "silk_thread",
+      "dusty_bulb",
+      "lamp_wick",
+      "soft_cocoon"
+    ],
+    "friendshipRewards": {
+      "level5": "bio_unlock",
+      "level10": "memento_moth_lantern"
+    }
+  },
+  {
+    "id": "rumble",
+    "name": "Rumble",
+    "rarity": "common",
+    "personality": "adventurous",
+    "bio": "A barrel-chested raccoon who crashes through underbrush with zero subtlety. Rumble approaches every obstacle by going straight through it.",
+    "favoriteFood": "trail_mix",
+    "favoriteToy": "climbing_rope",
+    "visitRequirements": {
+      "minHideoutLevel": 2,
+      "requiredFoodTier": "basic",
+      "weatherPreference": "wind",
+      "timePreference": null
+    },
+    "baseVisitChance": 0.1,
+    "trinketPool": [
+      "dented_thimble",
+      "broken_buckle",
+      "scratch_mark",
+      "bent_nail",
+      "storm_twig"
+    ],
+    "friendshipRewards": {
+      "level5": "bio_unlock",
+      "level10": "memento_thunder_drum"
+    }
+  },
+  {
+    "id": "noodle",
+    "name": "Noodle",
+    "rarity": "common",
+    "personality": "lazy",
+    "bio": "A boneless-looking raccoon who drapes herself over any surface like a fur blanket. Noodle is so relaxed that other raccoons use her as a pillow.",
+    "favoriteFood": "sushi_rolls",
+    "favoriteToy": "hammock",
+    "visitRequirements": {
+      "minHideoutLevel": 1,
+      "requiredFoodTier": "basic",
+      "weatherPreference": null,
+      "timePreference": "afternoon"
+    },
+    "baseVisitChance": 0.14,
+    "trinketPool": [
+      "noodle_bowl_chip",
+      "chopstick_rest",
+      "lazy_ribbon",
+      "stretchy_band",
+      "bendy_straw"
+    ],
+    "friendshipRewards": {
+      "level5": "bio_unlock",
+      "level10": "memento_infinity_scarf"
+    }
+  },
+  {
+    "id": "gadget",
+    "name": "Gadget",
+    "rarity": "common",
+    "personality": "curious",
+    "bio": "A tinkering raccoon who disassembles anything with moving parts. Gadget has never successfully reassembled anything, but remains optimistic.",
+    "favoriteFood": "kibble",
+    "favoriteToy": "shiny_marble",
+    "visitRequirements": {
+      "minHideoutLevel": 2,
+      "requiredFoodTier": "basic",
+      "weatherPreference": null,
+      "timePreference": null
+    },
+    "baseVisitChance": 0.11,
+    "trinketPool": [
+      "loose_screw",
+      "tiny_gear",
+      "spring_coil",
+      "wire_bit",
+      "circuit_chip"
+    ],
+    "friendshipRewards": {
+      "level5": "bio_unlock",
+      "level10": "memento_inventors_wrench"
+    }
+  },
+  {
+    "id": "chestnut",
+    "name": "Chestnut",
+    "rarity": "common",
+    "personality": "social",
+    "bio": "A ruddy-furred raccoon who brings gifts to every raccoon she meets. Chestnut insists that generosity is the best survival strategy.",
+    "favoriteFood": "apple_cores",
+    "favoriteToy": "cardboard_box",
+    "visitRequirements": {
+      "minHideoutLevel": 2,
+      "requiredFoodTier": "basic",
+      "weatherPreference": null,
+      "timePreference": "morning",
+      "bonusWhenOtherVisitors": true
+    },
+    "baseVisitChance": 0.12,
+    "trinketPool": [
+      "polished_chestnut",
+      "acorn_cap",
+      "walnut_shell",
+      "hazel_husk",
+      "roasted_kernel"
+    ],
+    "friendshipRewards": {
+      "level5": "bio_unlock",
+      "level10": "memento_harvest_basket"
+    }
+  },
+  {
+    "id": "smudge",
+    "name": "Smudge",
+    "rarity": "common",
+    "personality": "mischievous",
+    "bio": "A raccoon with perpetually dirty paws who leaves ink-like prints on everything. Smudge claims the marks are art, and honestly, some of them are.",
+    "favoriteFood": "pizza_slice",
+    "favoriteToy": "cardboard_box",
+    "visitRequirements": {
+      "minHideoutLevel": 1,
+      "requiredFoodTier": "basic",
+      "weatherPreference": "rain",
+      "timePreference": null
+    },
+    "baseVisitChance": 0.1,
+    "trinketPool": [
+      "ink_blot",
+      "charcoal_nub",
+      "paint_chip",
+      "stained_cloth",
+      "smudged_pawprint"
+    ],
+    "friendshipRewards": {
+      "level5": "bio_unlock",
+      "level10": "memento_abstract_masterpiece"
+    }
+  },
+  {
+    "id": "bramble",
+    "name": "Bramble",
+    "rarity": "common",
+    "personality": "adventurous",
+    "bio": "A scrappy raccoon covered in tiny scratches from squeezing through hedgerows. Bramble knows every thorny shortcut and wears the scratches like badges.",
+    "favoriteFood": "berries",
+    "favoriteToy": "climbing_rope",
+    "visitRequirements": {
+      "minHideoutLevel": 2,
+      "requiredFoodTier": "basic",
+      "weatherPreference": null,
+      "timePreference": "morning"
+    },
+    "baseVisitChance": 0.11,
+    "trinketPool": [
+      "thorn_piece",
+      "bramble_berry",
+      "vine_ring",
+      "wild_rose_petal",
+      "hedge_snip"
+    ],
+    "friendshipRewards": {
+      "level5": "bio_unlock",
+      "level10": "memento_briar_crown"
+    }
+  },
+  {
+    "id": "buttons",
+    "name": "Buttons",
+    "rarity": "common",
+    "personality": "curious",
+    "bio": "A meticulous raccoon obsessed with sorting tiny objects by size and color. Buttons has catalogued her collection in a system only she understands.",
+    "favoriteFood": "apple_cores",
+    "favoriteToy": "shiny_marble",
+    "visitRequirements": {
+      "minHideoutLevel": 1,
+      "requiredFoodTier": "basic",
+      "weatherPreference": null,
+      "timePreference": "afternoon"
+    },
+    "baseVisitChance": 0.12,
+    "trinketPool": [
+      "pearl_button",
+      "toggle_button",
+      "snap_fastener",
+      "zipper_pull",
+      "decorative_clasp"
+    ],
+    "friendshipRewards": {
+      "level5": "bio_unlock",
+      "level10": "memento_button_mosaic"
+    }
+  },
+  {
+    "id": "jinx",
+    "name": "Jinx",
+    "rarity": "uncommon",
+    "personality": "mischievous",
+    "bio": "A raccoon surrounded by happy accidents and convenient coincidences. Things break and rearrange themselves in Jinx's wake, but somehow it always works out better.",
+    "favoriteFood": "gourmet_cheese",
+    "favoriteToy": "magic_hat",
+    "visitRequirements": {
+      "minHideoutLevel": 3,
+      "requiredFoodTier": "standard",
+      "weatherPreference": null,
+      "timePreference": "night"
+    },
+    "baseVisitChance": 0.06,
+    "trinketPool": [
+      "broken_mirror_shard",
+      "horseshoe_nail",
+      "twisted_penny",
+      "rabbit_foot_charm",
+      "lucky_dice"
+    ],
+    "friendshipRewards": {
+      "level5": "bio_unlock",
+      "level10": "memento_chaos_compass"
+    }
+  },
+  {
+    "id": "thistle",
+    "name": "Thistle",
+    "rarity": "uncommon",
+    "personality": "shy",
+    "bio": "A prickly raccoon who warms up slowly but becomes fiercely loyal. Thistle hides behind a tough exterior that melts the moment you offer her favorite snack.",
+    "favoriteFood": "honey_pot",
+    "favoriteToy": "blanket_fort",
+    "visitRequirements": {
+      "minHideoutLevel": 3,
+      "requiredFoodTier": "standard",
+      "weatherPreference": "fog",
+      "timePreference": null,
+      "maxOtherVisitors": 1
+    },
+    "baseVisitChance": 0.05,
+    "trinketPool": [
+      "thistle_bloom",
+      "dried_heather",
+      "lavender_sprig",
+      "wild_sage_leaf",
+      "thorny_brooch"
+    ],
+    "friendshipRewards": {
+      "level5": "bio_unlock",
+      "level10": "memento_thistle_pressed_bouquet"
+    }
+  },
+  {
+    "id": "cinder",
+    "name": "Cinder",
+    "rarity": "uncommon",
+    "personality": "nocturnal",
+    "bio": "A dusky raccoon who emerges from the ashes of dying campfires. Cinder carries the scent of woodsmoke and leaves warm pawprints on cold nights.",
+    "favoriteFood": "sushi_rolls",
+    "favoriteToy": "crystal_ball",
+    "visitRequirements": {
+      "minHideoutLevel": 3,
+      "requiredFoodTier": "standard",
+      "weatherPreference": null,
+      "timePreference": "night"
+    },
+    "baseVisitChance": 0.05,
+    "trinketPool": [
+      "ash_pearl",
+      "charred_twig",
+      "ember_crystal",
+      "soot_smudge_stone",
+      "fire_opal_chip"
+    ],
+    "friendshipRewards": {
+      "level5": "bio_unlock",
+      "level10": "memento_eternal_ember"
+    }
+  },
+  {
+    "id": "pickle",
+    "name": "Pickle",
+    "rarity": "uncommon",
+    "personality": "glutton",
+    "bio": "A raccoon with an inexplicable talent for getting into sealed containers. Pickle has cracked jars, cans, and once a combination lock on a cooler.",
+    "favoriteFood": "gourmet_cheese",
+    "favoriteToy": "cardboard_box",
+    "visitRequirements": {
+      "minHideoutLevel": 2,
+      "requiredFoodTier": "standard",
+      "weatherPreference": null,
+      "timePreference": "evening"
+    },
+    "baseVisitChance": 0.07,
+    "trinketPool": [
+      "jar_lid",
+      "pickle_fork",
+      "brine_crystal",
+      "cork_stopper",
+      "wax_seal"
+    ],
+    "friendshipRewards": {
+      "level5": "bio_unlock",
+      "level10": "memento_master_key_ring"
+    }
+  },
+  {
+    "id": "compass",
+    "name": "Compass",
+    "rarity": "uncommon",
+    "personality": "adventurous",
+    "bio": "A well-traveled raccoon who always knows which direction to go. Compass has visited hideouts across the region and brings stories from distant neighborhoods.",
+    "favoriteFood": "trail_mix",
+    "favoriteToy": "climbing_rope",
+    "visitRequirements": {
+      "minHideoutLevel": 3,
+      "requiredFoodTier": "standard",
+      "weatherPreference": "clear",
+      "timePreference": null
+    },
+    "baseVisitChance": 0.06,
+    "trinketPool": [
+      "north_star_pin",
+      "old_map_scrap",
+      "waypoint_marker",
+      "lodestone",
+      "travel_journal_page"
+    ],
+    "friendshipRewards": {
+      "level5": "bio_unlock",
+      "level10": "memento_golden_compass"
+    }
+  },
+  {
+    "id": "velvet",
+    "name": "Velvet",
+    "rarity": "uncommon",
+    "personality": "lazy",
+    "bio": "A luxuriously soft raccoon who refuses to rest on anything less than the finest fabrics. Velvet has impeccable taste and an absolute commitment to comfort.",
+    "favoriteFood": "moonberry_tart",
+    "favoriteToy": "hammock",
+    "visitRequirements": {
+      "minHideoutLevel": 4,
+      "requiredFoodTier": "premium",
+      "weatherPreference": null,
+      "timePreference": "afternoon"
+    },
+    "baseVisitChance": 0.04,
+    "trinketPool": [
+      "velvet_swatch",
+      "silk_tassel",
+      "satin_ribbon",
+      "cashmere_tuft",
+      "brocade_scrap"
+    ],
+    "friendshipRewards": {
+      "level5": "bio_unlock",
+      "level10": "memento_royal_cushion"
+    }
+  },
+  {
+    "id": "flicker",
+    "name": "Flicker",
+    "rarity": "uncommon",
+    "personality": "curious",
+    "bio": "A quick-witted raccoon who appears and disappears so fast you wonder if you imagined her. Flicker investigates everything at lightning speed.",
+    "favoriteFood": "sushi_rolls",
+    "favoriteToy": "shiny_marble",
+    "visitRequirements": {
+      "minHideoutLevel": 3,
+      "requiredFoodTier": "standard",
+      "weatherPreference": null,
+      "timePreference": "evening"
+    },
+    "baseVisitChance": 0.06,
+    "trinketPool": [
+      "spark_stone",
+      "flash_paper",
+      "glint_shard",
+      "mirror_chip",
+      "prism_fragment"
+    ],
+    "friendshipRewards": {
+      "level5": "bio_unlock",
+      "level10": "memento_lightning_in_a_bottle"
+    }
+  },
+  {
+    "id": "hazel",
+    "name": "Hazel",
+    "rarity": "uncommon",
+    "personality": "social",
+    "bio": "A wise and warm raccoon who mediates disputes and remembers everyone's birthday. Hazel is the glue that holds the local raccoon community together.",
+    "favoriteFood": "berries",
+    "favoriteToy": "ball_of_yarn",
+    "visitRequirements": {
+      "minHideoutLevel": 4,
+      "requiredFoodTier": "standard",
+      "weatherPreference": null,
+      "timePreference": null,
+      "bonusWhenOtherVisitors": true
+    },
+    "baseVisitChance": 0.05,
+    "trinketPool": [
+      "hazelnut_shell",
+      "woven_bracelet",
+      "peace_pipe_bead",
+      "council_stone",
+      "unity_knot"
+    ],
+    "friendshipRewards": {
+      "level5": "bio_unlock",
+      "level10": "memento_elders_medallion"
+    }
+  },
+  {
+    "id": "riddle",
+    "name": "Riddle",
+    "rarity": "uncommon",
+    "personality": "mischievous",
+    "bio": "A cryptic raccoon who leaves puzzles instead of pawprints. Riddle communicates through elaborate arrangements of trinkets that take days to decode.",
+    "favoriteFood": "pizza_slice",
+    "favoriteToy": "magic_hat",
+    "visitRequirements": {
+      "minHideoutLevel": 4,
+      "requiredFoodTier": "premium",
+      "weatherPreference": "fog",
+      "timePreference": null
+    },
+    "baseVisitChance": 0.04,
+    "trinketPool": [
+      "puzzle_piece",
+      "cipher_disk",
+      "enigma_stone",
+      "coded_note",
+      "maze_token"
+    ],
+    "friendshipRewards": {
+      "level5": "bio_unlock",
+      "level10": "memento_riddle_box"
+    }
+  },
+  {
+    "id": "cobalt",
+    "name": "Cobalt",
+    "rarity": "uncommon",
+    "personality": "nocturnal",
+    "bio": "A blue-tinged raccoon who only appears on misty evenings, drawn to anything that glimmers in low light. Cobalt collects shards of colored glass and arranges them where the moonlight can catch them.",
+    "favoriteFood": "honey_pot",
+    "favoriteToy": "crystal_ball",
+    "visitRequirements": {
+      "minHideoutLevel": 4,
+      "requiredFoodTier": "standard",
+      "weatherPreference": "fog",
+      "timePreference": "night"
+    },
+    "baseVisitChance": 0.05,
+    "trinketPool": [
+      "cobalt_glass_shard",
+      "blue_sea_glass",
+      "indigo_bead",
+      "sapphire_chip",
+      "lapis_fragment"
+    ],
+    "friendshipRewards": {
+      "level5": "bio_unlock",
+      "level10": "memento_cobalt_stained_glass"
+    }
+  },
+  {
+    "id": "sage",
+    "name": "Sage",
+    "rarity": "rare",
+    "personality": "curious",
+    "bio": "An ancient-eyed raccoon who seems to understand things no raccoon should. Sage studies the stars and scratches strange symbols into tree bark that other raccoons regard with quiet awe.",
+    "favoriteFood": "moonberry_tart",
+    "favoriteToy": "crystal_ball",
+    "visitRequirements": {
+      "minHideoutLevel": 5,
+      "requiredFoodTier": "premium",
+      "weatherPreference": "clear",
+      "timePreference": "night"
+    },
+    "baseVisitChance": 0.03,
+    "trinketPool": [
+      "sage_bundle",
+      "star_chart_scrap",
+      "wisdom_tooth",
+      "ancient_rune_stone",
+      "oracle_bone"
+    ],
+    "friendshipRewards": {
+      "level5": "bio_unlock",
+      "level10": "memento_tome_of_whiskers"
+    }
+  },
+  {
+    "id": "phantom",
+    "name": "Phantom",
+    "rarity": "rare",
+    "personality": "nocturnal",
+    "bio": "A ghostly pale raccoon who leaves no footprints and makes no sound. Some raccoons insist Phantom is a legend, but the trinkets left behind prove otherwise.",
+    "favoriteFood": "sushi_rolls",
+    "favoriteToy": "blanket_fort",
+    "visitRequirements": {
+      "minHideoutLevel": 5,
+      "requiredFoodTier": "premium",
+      "weatherPreference": "fog",
+      "timePreference": "night"
+    },
+    "baseVisitChance": 0.02,
+    "trinketPool": [
+      "phantom_feather",
+      "ghost_glass",
+      "shadow_silk",
+      "void_pearl",
+      "spectral_coin"
+    ],
+    "friendshipRewards": {
+      "level5": "bio_unlock",
+      "level10": "memento_phantom_mask"
+    }
+  },
+  {
+    "id": "ember_queen",
+    "name": "Ember Queen",
+    "rarity": "rare",
+    "personality": "adventurous",
+    "bio": "A battle-scarred raccoon who leads expeditions into places other raccoons fear to tread. The Ember Queen has explored storm drains, construction sites, and the legendary attic of Old Mill Road.",
+    "favoriteFood": "gourmet_cheese",
+    "favoriteToy": "climbing_rope",
+    "visitRequirements": {
+      "minHideoutLevel": 5,
+      "requiredFoodTier": "premium",
+      "weatherPreference": "wind",
+      "timePreference": "evening"
+    },
+    "baseVisitChance": 0.03,
+    "trinketPool": [
+      "crown_shard",
+      "battle_claw",
+      "expedition_medal",
+      "volcanic_glass",
+      "ember_crown_jewel"
+    ],
+    "friendshipRewards": {
+      "level5": "bio_unlock",
+      "level10": "memento_queens_banner"
+    }
+  },
+  {
+    "id": "mercury",
+    "name": "Mercury",
+    "rarity": "rare",
+    "personality": "mischievous",
+    "bio": "A quicksilver raccoon who moves so fast that witnesses disagree on what color his fur actually is. Mercury steals snacks mid-conversation and is gone before anyone blinks.",
+    "favoriteFood": "pizza_slice",
+    "favoriteToy": "magic_hat",
+    "visitRequirements": {
+      "minHideoutLevel": 4,
+      "requiredFoodTier": "premium",
+      "weatherPreference": "clear",
+      "timePreference": "night"
+    },
+    "baseVisitChance": 0.03,
+    "trinketPool": [
+      "quicksilver_drop",
+      "blur_feather",
+      "speed_shard",
+      "flash_scale",
+      "mercury_bead"
+    ],
+    "friendshipRewards": {
+      "level5": "bio_unlock",
+      "level10": "memento_winged_sandal_charm"
+    }
+  },
+  {
+    "id": "willow",
+    "name": "Willow",
+    "rarity": "rare",
+    "personality": "shy",
+    "bio": "A graceful raccoon who only appears when the world is perfectly still. Willow moves through rain like a dancer and leaves behind trinkets that smell of petrichor and fresh bark.",
+    "favoriteFood": "honey_pot",
+    "favoriteToy": "pillow_pile",
+    "visitRequirements": {
+      "minHideoutLevel": 6,
+      "requiredFoodTier": "premium",
+      "weatherPreference": "rain",
+      "timePreference": "evening",
+      "maxOtherVisitors": 0
+    },
+    "baseVisitChance": 0.02,
+    "trinketPool": [
+      "willow_catkin",
+      "rain_droplet_gem",
+      "bark_scroll",
+      "dew_crystal",
+      "weeping_branch"
+    ],
+    "friendshipRewards": {
+      "level5": "bio_unlock",
+      "level10": "memento_willow_music_box"
+    }
+  },
+  {
+    "id": "sable",
+    "name": "Sable",
+    "rarity": "rare",
+    "personality": "glutton",
+    "bio": "A refined raccoon with a palate so sophisticated she can identify cheese by smell alone at fifty paces. Sable dines exclusively on the finest offerings and turns her nose up at anything less.",
+    "favoriteFood": "gourmet_cheese",
+    "favoriteToy": "crystal_ball",
+    "visitRequirements": {
+      "minHideoutLevel": 5,
+      "requiredFoodTier": "premium",
+      "weatherPreference": null,
+      "timePreference": "evening"
+    },
+    "baseVisitChance": 0.03,
+    "trinketPool": [
+      "truffle_shaving",
+      "gold_leaf_flake",
+      "wine_cork",
+      "silver_spoon",
+      "caviar_tin"
+    ],
+    "friendshipRewards": {
+      "level5": "bio_unlock",
+      "level10": "memento_gourmands_guide"
+    }
+  },
+  {
+    "id": "solstice",
+    "name": "Solstice",
+    "rarity": "legendary",
+    "personality": "nocturnal",
+    "bio": "A mythic raccoon said to appear only when the sky is perfectly clear and the night is at its deepest. Those who have seen Solstice describe a shimmering coat that reflects starlight, and trinkets that hum with a faint celestial warmth. Entire generations of raccoons speak of Solstice in hushed tones.",
+    "favoriteFood": "moonberry_tart",
+    "favoriteToy": "crystal_ball",
+    "visitRequirements": {
+      "minHideoutLevel": 7,
+      "requiredFoodTier": "premium",
+      "weatherPreference": "clear",
+      "timePreference": "night"
+    },
+    "baseVisitChance": 0.01,
+    "trinketPool": [
+      "solstice_shard",
+      "eternal_star_dust",
+      "aurora_fragment",
+      "celestial_key",
+      "midnight_sun_gem"
+    ],
+    "friendshipRewards": {
+      "level5": "bio_unlock",
+      "level10": "memento_crown_of_the_longest_night"
+    }
+  },
+  {
+    "id": "tempest",
+    "name": "Tempest",
+    "rarity": "legendary",
+    "personality": "adventurous",
+    "bio": "A legendary raccoon who rides the storm itself. Tempest arrives on howling winds and crashing rain, fur streaked with lightning-white. The bravest raccoons in the hollow still tremble at the sound of thunder, knowing Tempest may be near. The trinkets left behind crackle with static and smell of ozone.",
+    "favoriteFood": "gourmet_cheese",
+    "favoriteToy": "climbing_rope",
+    "visitRequirements": {
+      "minHideoutLevel": 8,
+      "requiredFoodTier": "premium",
+      "weatherPreference": "rain",
+      "timePreference": "night"
+    },
+    "baseVisitChance": 0.01,
+    "trinketPool": [
+      "storm_glass_orb",
+      "lightning_splinter",
+      "thunderclap_stone",
+      "tempest_feather",
+      "eye_of_the_storm_gem"
+    ],
+    "friendshipRewards": {
+      "level5": "bio_unlock",
+      "level10": "memento_stormcallers_mantle"
+    }
+  },
+  {
+    "id": "midnight",
+    "name": "Midnight",
+    "rarity": "rare",
+    "personality": "nocturnal",
+    "bio": "A mysterious midnight visitor who only appears for the finest cuisine.",
+    "favoriteFood": "moonberry_tart",
+    "favoriteToy": "crystal_ball",
+    "visitRequirements": {
+      "minHideoutLevel": 5,
+      "requiredFoodTier": "snaxOnly",
+      "weatherPreference": null,
+      "timePreference": "night"
+    },
+    "baseVisitChance": 0.04,
+    "trinketPool": [
+      "obsidian_stone",
+      "night_crystal",
+      "shadow_feather",
+      "dark_pearl",
+      "moonlit_leaf"
+    ],
+    "friendshipRewards": {
+      "level5": 15,
+      "level10": 30
+    }
+  },
+  {
+    "id": "duchess",
+    "name": "Duchess",
+    "rarity": "rare",
+    "personality": "shy",
+    "bio": "An elegant raccoon with refined tastes. Only the premium spread will do.",
+    "favoriteFood": "moonberry_tart",
+    "favoriteToy": "crystal_ball",
+    "visitRequirements": {
+      "minHideoutLevel": 6,
+      "requiredFoodTier": "snaxOnly",
+      "weatherPreference": "clear",
+      "timePreference": null
+    },
+    "baseVisitChance": 0.03,
+    "trinketPool": [
+      "golden_acorn",
+      "silk_ribbon",
+      "pearl_button",
+      "crystal_thimble",
+      "velvet_bow"
+    ],
+    "friendshipRewards": {
+      "level5": 20,
+      "level10": 40
+    }
+  },
+  {
+    "id": "ghost",
+    "name": "Ghost",
+    "rarity": "legendary",
+    "personality": "nocturnal",
+    "bio": "Legend says Ghost appears only on foggy nights... if you have the right bait.",
+    "favoriteFood": "moonberry_tart",
+    "favoriteToy": "crystal_ball",
+    "visitRequirements": {
+      "minHideoutLevel": 7,
+      "requiredFoodTier": "snaxOnly",
+      "weatherPreference": "fog",
+      "timePreference": "night",
+      "maxOtherVisitors": 0
+    },
+    "baseVisitChance": 0.01,
+    "trinketPool": [
+      "phantom_dust",
+      "ghost_gem",
+      "ethereal_shard",
+      "spirit_stone",
+      "void_crystal"
+    ],
+    "friendshipRewards": {
+      "level5": 30,
+      "level10": 60
+    }
+  }
+]

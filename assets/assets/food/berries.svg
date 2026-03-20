@@ -1,0 +1,28 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100">
+  <!-- Leaves behind -->
+  <path d="M45 30 Q40 20 50 18 Q60 20 55 30" fill="#228B22" stroke="#4A3728" stroke-width="2"/>
+  <path d="M52 28 Q58 18 62 22 Q60 30 54 32" fill="#228B22" stroke="#4A3728" stroke-width="1.5"/>
+  <!-- Blueberry 1 -->
+  <circle cx="35" cy="50" r="12" fill="#4169E1" stroke="#4A3728" stroke-width="2.5"/>
+  <circle cx="35" cy="42" r="3" fill="none" stroke="#4A3728" stroke-width="1.5"/>
+  <!-- Blueberry 2 -->
+  <circle cx="60" cy="45" r="11" fill="#4169E1" stroke="#4A3728" stroke-width="2.5"/>
+  <circle cx="60" cy="38" r="2.5" fill="none" stroke="#4A3728" stroke-width="1.5"/>
+  <!-- Raspberry 1 -->
+  <circle cx="48" cy="65" r="12" fill="#DC143C" stroke="#4A3728" stroke-width="2.5"/>
+  <!-- Raspberry bumps -->
+  <circle cx="43" cy="62" r="3" fill="#E8304A" stroke="#C01030" stroke-width="1"/>
+  <circle cx="50" cy="60" r="3" fill="#E8304A" stroke="#C01030" stroke-width="1"/>
+  <circle cx="46" cy="68" r="3" fill="#E8304A" stroke="#C01030" stroke-width="1"/>
+  <circle cx="53" cy="66" r="3" fill="#E8304A" stroke="#C01030" stroke-width="1"/>
+  <circle cx="48" cy="73" r="2.5" fill="#E8304A" stroke="#C01030" stroke-width="1"/>
+  <!-- Raspberry 2 -->
+  <circle cx="72" cy="62" r="10" fill="#DC143C" stroke="#4A3728" stroke-width="2.5"/>
+  <circle cx="68" cy="59" r="2.5" fill="#E8304A" stroke="#C01030" stroke-width="1"/>
+  <circle cx="74" cy="58" r="2.5" fill="#E8304A" stroke="#C01030" stroke-width="1"/>
+  <circle cx="71" cy="65" r="2.5" fill="#E8304A" stroke="#C01030" stroke-width="1"/>
+  <circle cx="76" cy="63" r="2.5" fill="#E8304A" stroke="#C01030" stroke-width="1"/>
+  <!-- Small blueberry -->
+  <circle cx="25" cy="68" r="8" fill="#4169E1" stroke="#4A3728" stroke-width="2.5"/>
+  <circle cx="25" cy="63" r="2" fill="none" stroke="#4A3728" stroke-width="1.5"/>
+</svg>

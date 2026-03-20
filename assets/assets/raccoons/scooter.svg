@@ -1,0 +1,39 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 120 120">
+  <!-- scooter - adventurous, orange-brown, excited pose -->
+  <!-- Tail -->
+  <ellipse cx="85" cy="75" rx="18" ry="8" fill="#C47A2B" transform="rotate(-30 85 75)"/>
+  <ellipse cx="90" cy="70" rx="14" ry="6" fill="#4A3520" transform="rotate(-30 90 70)"/>
+  <ellipse cx="95" cy="65" rx="10" ry="5" fill="#C47A2B" transform="rotate(-30 95 65)"/>
+  <!-- Body -->
+  <ellipse cx="55" cy="72" rx="24" ry="28" fill="#C47A2B"/>
+  <ellipse cx="55" cy="75" rx="18" ry="20" fill="#E8C99B"/>
+  <!-- Left arm raised excitedly -->
+  <ellipse cx="35" cy="58" rx="6" ry="12" fill="#C47A2B" transform="rotate(30 35 58)"/>
+  <!-- Right arm raised -->
+  <ellipse cx="75" cy="55" rx="6" ry="12" fill="#C47A2B" transform="rotate(-20 75 55)"/>
+  <!-- Legs -->
+  <ellipse cx="43" cy="97" rx="7" ry="5" fill="#8B5E2B"/>
+  <ellipse cx="67" cy="97" rx="7" ry="5" fill="#8B5E2B"/>
+  <!-- Head -->
+  <circle cx="55" cy="38" r="20" fill="#C47A2B"/>
+  <!-- Ears -->
+  <circle cx="39" cy="22" r="7" fill="#C47A2B"/>
+  <circle cx="39" cy="22" r="4" fill="#E8A0B0"/>
+  <circle cx="71" cy="22" r="7" fill="#C47A2B"/>
+  <circle cx="71" cy="22" r="4" fill="#E8A0B0"/>
+  <!-- Mask -->
+  <ellipse cx="45" cy="36" rx="10" ry="7" fill="#4A3520"/>
+  <ellipse cx="65" cy="36" rx="10" ry="7" fill="#4A3520"/>
+  <!-- Eyes - wide and excited -->
+  <circle cx="47" cy="36" r="4" fill="white"/>
+  <circle cx="63" cy="36" r="4" fill="white"/>
+  <circle cx="48" cy="35" r="2" fill="#1A1A1A"/>
+  <circle cx="64" cy="35" r="2" fill="#1A1A1A"/>
+  <!-- Excited sparkle in eyes -->
+  <circle cx="49" cy="34" r="0.8" fill="white"/>
+  <circle cx="65" cy="34" r="0.8" fill="white"/>
+  <!-- Nose -->
+  <ellipse cx="55" cy="42" rx="3" ry="2" fill="#1A1A1A"/>
+  <!-- Big excited smile -->
+  <path d="M48 46 Q55 54 62 46" fill="none" stroke="#1A1A1A" stroke-width="1.5" stroke-linecap="round"/>
+</svg>

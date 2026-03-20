@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100">
+  <!-- Gold premium border -->
+  <circle cx="50" cy="52" r="38" fill="none" stroke="#FFD700" stroke-width="1"/>
+  <!-- Tart base/crust -->
+  <ellipse cx="50" cy="65" rx="35" ry="12" fill="#D4A574" stroke="#4A3728" stroke-width="2.5"/>
+  <path d="M15 65 L18 40 Q20 35 25 33 L75 33 Q80 35 82 40 L85 65" fill="#D4A574" stroke="#4A3728" stroke-width="2.5" stroke-linejoin="round"/>
+  <!-- Crust scalloped edge -->
+  <path d="M18 40 Q22 37 26 40 Q30 37 34 40 Q38 37 42 40 Q46 37 50 40 Q54 37 58 40 Q62 37 66 40 Q70 37 74 40 Q78 37 82 40" fill="none" stroke="#4A3728" stroke-width="2"/>
+  <!-- Purple filling -->
+  <path d="M22 40 L78 40 Q80 40 80 42 L80 60 Q80 63 78 63 L22 63 Q20 63 20 60 L20 42 Q20 40 22 40" fill="#6A0DAD" stroke="#4A3728" stroke-width="2"/>
+  <!-- Filling surface -->
+  <ellipse cx="50" cy="40" rx="30" ry="8" fill="#7B1FA2" stroke="#4A3728" stroke-width="2"/>
+  <!-- Crescent moon decoration on top -->
+  <path d="M42 35 Q48 25 55 35 Q50 30 42 35 Z" fill="#FFD700" stroke="#4A3728" stroke-width="1.5"/>
+  <!-- Moon crescent - better shape -->
+  <circle cx="48" cy="30" r="8" fill="#FFD700" stroke="#4A3728" stroke-width="1.5"/>
+  <circle cx="52" cy="28" r="6.5" fill="#7B1FA2" stroke="none"/>
+  <!-- Small star decorations -->
+  <polygon points="35,33 36,30 37,33 34,31 38,31" fill="#FFD700" stroke="none"/>
+  <polygon points="63,33 64,30 65,33 62,31 66,31" fill="#FFD700" stroke="none"/>
+  <!-- Crust texture -->
+  <path d="M25 55 Q30 53 35 55" fill="none" stroke="#C49454" stroke-width="1"/>
+  <path d="M65 55 Q70 53 75 55" fill="none" stroke="#C49454" stroke-width="1"/>
+</svg>

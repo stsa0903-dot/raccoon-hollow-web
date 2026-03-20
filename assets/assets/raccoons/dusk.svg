@@ -1,0 +1,38 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 120 120">
+  <!-- dusk - nocturnal, dark purple-gray, alert eyes -->
+  <!-- Tail -->
+  <ellipse cx="87" cy="78" rx="17" ry="7" fill="#5A4A60" transform="rotate(-20 87 78)"/>
+  <ellipse cx="92" cy="74" rx="13" ry="5" fill="#2A1A30" transform="rotate(-20 92 74)"/>
+  <ellipse cx="97" cy="70" rx="9" ry="4" fill="#5A4A60" transform="rotate(-20 97 70)"/>
+  <!-- Body -->
+  <ellipse cx="55" cy="74" rx="22" ry="26" fill="#5A4A60"/>
+  <ellipse cx="55" cy="77" rx="16" ry="18" fill="#8070A0"/>
+  <!-- Arms alert at sides -->
+  <ellipse cx="36" cy="68" rx="5" ry="10" fill="#5A4A60" transform="rotate(8 36 68)"/>
+  <ellipse cx="74" cy="68" rx="5" ry="10" fill="#5A4A60" transform="rotate(-8 74 68)"/>
+  <!-- Legs -->
+  <ellipse cx="44" cy="97" rx="7" ry="5" fill="#3A2A40"/>
+  <ellipse cx="66" cy="97" rx="7" ry="5" fill="#3A2A40"/>
+  <!-- Head -->
+  <circle cx="55" cy="38" r="19" fill="#5A4A60"/>
+  <!-- Ears - perked up alert -->
+  <ellipse cx="38" cy="20" rx="6" ry="8" fill="#5A4A60"/>
+  <ellipse cx="38" cy="20" rx="3.5" ry="5" fill="#8060A0"/>
+  <ellipse cx="72" cy="20" rx="6" ry="8" fill="#5A4A60"/>
+  <ellipse cx="72" cy="20" rx="3.5" ry="5" fill="#8060A0"/>
+  <!-- Mask -->
+  <ellipse cx="45" cy="36" rx="10" ry="7" fill="#2A1A30"/>
+  <ellipse cx="65" cy="36" rx="10" ry="7" fill="#2A1A30"/>
+  <!-- Eyes - large alert glowing -->
+  <circle cx="47" cy="36" r="5" fill="#E8E060"/>
+  <circle cx="63" cy="36" r="5" fill="#E8E060"/>
+  <circle cx="47" cy="36" r="2.5" fill="#1A1A1A"/>
+  <circle cx="63" cy="36" r="2.5" fill="#1A1A1A"/>
+  <!-- Eye glow -->
+  <circle cx="47" cy="36" r="6" fill="#E8E060" opacity="0.15"/>
+  <circle cx="63" cy="36" r="6" fill="#E8E060" opacity="0.15"/>
+  <!-- Nose -->
+  <ellipse cx="55" cy="43" rx="2.5" ry="2" fill="#1A1A1A"/>
+  <!-- Neutral alert mouth -->
+  <path d="M50 47 Q55 48 60 47" fill="none" stroke="#1A1A1A" stroke-width="1" stroke-linecap="round"/>
+</svg>

@@ -1,0 +1,38 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 120 120">
+  <!-- Body / blue coat -->
+  <path d="M40,60 Q38,95 42,105 L78,105 Q82,95 80,60 Z" fill="#2196F3"/>
+  <!-- Coat buttons -->
+  <circle cx="60" cy="70" r="2.5" fill="#FFD700"/>
+  <circle cx="60" cy="82" r="2.5" fill="#FFD700"/>
+  <circle cx="60" cy="94" r="2.5" fill="#FFD700"/>
+  <!-- Belt -->
+  <rect x="38" y="75" width="44" height="5" rx="2" fill="#5D4037"/>
+  <rect x="56" y="74" width="8" height="7" rx="1" fill="#FFD700"/>
+  <!-- Hands -->
+  <circle cx="38" cy="80" r="5" fill="#FFCC80"/>
+  <circle cx="82" cy="80" r="5" fill="#FFCC80"/>
+  <!-- Face -->
+  <circle cx="60" cy="48" r="16" fill="#FFCC80"/>
+  <!-- Eyes -->
+  <circle cx="53" cy="46" r="2.5" fill="#2C1810"/>
+  <circle cx="67" cy="46" r="2.5" fill="#2C1810"/>
+  <!-- Rosy cheeks -->
+  <circle cx="48" cy="52" r="4" fill="#FF8A80" opacity="0.4"/>
+  <circle cx="72" cy="52" r="4" fill="#FF8A80" opacity="0.4"/>
+  <!-- Nose -->
+  <circle cx="60" cy="51" r="3" fill="#FFB74D"/>
+  <!-- Smile -->
+  <path d="M52,56 Q60,62 68,56" fill="none" stroke="#5D4037" stroke-width="1.5" stroke-linecap="round"/>
+  <!-- Beard -->
+  <path d="M44,55 Q45,80 60,85 Q75,80 76,55" fill="#FFFFFF"/>
+  <path d="M48,60 Q50,72 60,75" fill="none" stroke="#E0E0E0" stroke-width="1" opacity="0.5"/>
+  <path d="M72,60 Q70,72 60,75" fill="none" stroke="#E0E0E0" stroke-width="1" opacity="0.5"/>
+  <!-- Hat (red pointed) -->
+  <path d="M40,50 Q42,38 60,8 Q78,38 80,50 Q70,42 60,42 Q50,42 40,50 Z" fill="#E53935"/>
+  <path d="M42,48 Q60,40 78,48" fill="none" stroke="#C62828" stroke-width="1" opacity="0.5"/>
+  <!-- Shoes -->
+  <ellipse cx="48" cy="108" rx="10" ry="5" fill="#5D4037"/>
+  <ellipse cx="72" cy="108" rx="10" ry="5" fill="#5D4037"/>
+  <!-- Ground shadow -->
+  <ellipse cx="60" cy="112" rx="22" ry="3" fill="#3E2723" opacity="0.15"/>
+</svg>

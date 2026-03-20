@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16">
+  <!-- 6-pointed snowflake -->
+  <!-- Main arms -->
+  <line x1="8" y1="1" x2="8" y2="15" stroke="#E0F0FF" stroke-width="1.2" stroke-linecap="round"/>
+  <line x1="1.9" y1="4.5" x2="14.1" y2="11.5" stroke="#E0F0FF" stroke-width="1.2" stroke-linecap="round"/>
+  <line x1="1.9" y1="11.5" x2="14.1" y2="4.5" stroke="#E0F0FF" stroke-width="1.2" stroke-linecap="round"/>
+  <!-- Branches on top arm -->
+  <line x1="8" y1="3.5" x2="6.5" y2="4.5" stroke="#E0F0FF" stroke-width="0.8" stroke-linecap="round"/>
+  <line x1="8" y1="3.5" x2="9.5" y2="4.5" stroke="#E0F0FF" stroke-width="0.8" stroke-linecap="round"/>
+  <!-- Branches on bottom arm -->
+  <line x1="8" y1="12.5" x2="6.5" y2="11.5" stroke="#E0F0FF" stroke-width="0.8" stroke-linecap="round"/>
+  <line x1="8" y1="12.5" x2="9.5" y2="11.5" stroke="#E0F0FF" stroke-width="0.8" stroke-linecap="round"/>
+  <!-- Center dot -->
+  <circle cx="8" cy="8" r="1" fill="#E0F0FF"/>
+</svg>

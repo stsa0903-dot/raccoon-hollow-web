@@ -1,0 +1,64 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 120 120">
+  <!-- Ghost - Translucent pale raccoon with glowing teal eyes, wispy edges -->
+  <!-- Tail - wispy -->
+  <path d="M28 85 Q15 78 12 68 Q9 58 18 55 Q25 53 28 60 Q32 68 35 78" fill="#E8E8F0" stroke="#C8C8D8" stroke-width="2" opacity="0.7"/>
+  <path d="M10 56 Q8 52 5 54" fill="none" stroke="#D8D8E8" stroke-width="1.5" opacity="0.4" stroke-linecap="round"/>
+  <path d="M13 63 Q10 60 7 62" fill="none" stroke="#D8D8E8" stroke-width="1.5" opacity="0.4" stroke-linecap="round"/>
+
+  <!-- Wispy aura -->
+  <ellipse cx="60" cy="84" rx="32" ry="30" fill="#E8E8F0" opacity="0.15" stroke="none"/>
+
+  <!-- Body -->
+  <ellipse cx="60" cy="84" rx="27" ry="25" fill="#E8E8F0" stroke="#C8C8D8" stroke-width="2" opacity="0.8"/>
+  <!-- Belly -->
+  <ellipse cx="60" cy="87" rx="17" ry="17" fill="#F0F0F8" stroke="none" opacity="0.8"/>
+
+  <!-- Wispy edges on body -->
+  <path d="M35 95 Q30 98 28 95" fill="none" stroke="#D8D8E8" stroke-width="1.5" opacity="0.5" stroke-linecap="round"/>
+  <path d="M85 95 Q90 98 92 95" fill="none" stroke="#D8D8E8" stroke-width="1.5" opacity="0.5" stroke-linecap="round"/>
+  <path d="M40 100 Q36 104 33 101" fill="none" stroke="#D8D8E8" stroke-width="1.5" opacity="0.4" stroke-linecap="round"/>
+  <path d="M80 100 Q84 104 87 101" fill="none" stroke="#D8D8E8" stroke-width="1.5" opacity="0.4" stroke-linecap="round"/>
+
+  <!-- Legs - fading -->
+  <ellipse cx="47" cy="105" rx="9" ry="6" fill="#E8E8F0" stroke="#C8C8D8" stroke-width="1.5" opacity="0.6"/>
+  <ellipse cx="73" cy="105" rx="9" ry="6" fill="#E8E8F0" stroke="#C8C8D8" stroke-width="1.5" opacity="0.6"/>
+
+  <!-- Arms -->
+  <path d="M38 76 Q30 86 34 95" fill="none" stroke="#C8C8D8" stroke-width="4" stroke-linecap="round" opacity="0.7"/>
+  <path d="M38 76 Q30 86 34 95" fill="none" stroke="#E8E8F0" stroke-width="2.5" stroke-linecap="round" opacity="0.8"/>
+  <path d="M82 76 Q90 86 86 95" fill="none" stroke="#C8C8D8" stroke-width="4" stroke-linecap="round" opacity="0.7"/>
+  <path d="M82 76 Q90 86 86 95" fill="none" stroke="#E8E8F0" stroke-width="2.5" stroke-linecap="round" opacity="0.8"/>
+
+  <!-- Head -->
+  <ellipse cx="60" cy="43" rx="23" ry="20" fill="#E8E8F0" stroke="#C8C8D8" stroke-width="2" opacity="0.85"/>
+
+  <!-- Ears -->
+  <ellipse cx="43" cy="27" rx="7" ry="9" fill="#E8E8F0" stroke="#C8C8D8" stroke-width="1.5" opacity="0.8"/>
+  <ellipse cx="43" cy="27" rx="4" ry="5" fill="#F0F0F8" stroke="none" opacity="0.7"/>
+  <ellipse cx="77" cy="27" rx="7" ry="9" fill="#E8E8F0" stroke="#C8C8D8" stroke-width="1.5" opacity="0.8"/>
+  <ellipse cx="77" cy="27" rx="4" ry="5" fill="#F0F0F8" stroke="none" opacity="0.7"/>
+
+  <!-- Face markings -->
+  <ellipse cx="60" cy="41" rx="17" ry="13" fill="#F0F0F8" stroke="none" opacity="0.8"/>
+
+  <!-- Mask - very subtle -->
+  <path d="M41 38 Q48 33 55 38 Q60 34 65 38 Q72 33 79 38 Q77 44 65 42 Q60 45 55 42 Q43 44 41 38Z" fill="#C8C8D8" opacity="0.5" stroke="none"/>
+
+  <!-- Eyes - glowing teal -->
+  <ellipse cx="51" cy="39" rx="4.5" ry="4" fill="#00CED1" stroke="none" opacity="0.9"/>
+  <ellipse cx="69" cy="39" rx="4.5" ry="4" fill="#00CED1" stroke="none" opacity="0.9"/>
+  <!-- Glow effect -->
+  <ellipse cx="51" cy="39" rx="6.5" ry="5.5" fill="#00CED1" stroke="none" opacity="0.2"/>
+  <ellipse cx="69" cy="39" rx="6.5" ry="5.5" fill="#00CED1" stroke="none" opacity="0.2"/>
+  <!-- Pupils -->
+  <circle cx="52" cy="39" r="2" fill="#008B8B"/>
+  <circle cx="70" cy="39" r="2" fill="#008B8B"/>
+  <circle cx="53" cy="38" r="0.8" fill="#00FFFF"/>
+  <circle cx="71" cy="38" r="0.8" fill="#00FFFF"/>
+
+  <!-- Nose -->
+  <ellipse cx="60" cy="47" rx="3" ry="2" fill="#C8C8D8" opacity="0.7"/>
+
+  <!-- Faint smile -->
+  <path d="M56 50 Q60 52 64 50" fill="none" stroke="#C8C8D8" stroke-width="1.5" stroke-linecap="round" opacity="0.6"/>
+</svg>

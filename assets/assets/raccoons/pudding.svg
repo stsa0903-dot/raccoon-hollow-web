@@ -1,0 +1,44 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 120 120">
+  <!-- Pudding - caramel brown, sweet look -->
+  <!-- Tail -->
+  <path d="M85 88 Q98 82 100 70 Q102 60 94 56 Q88 54 86 60 Q84 68 82 78" fill="#a0703c" stroke="#4a3520" stroke-width="2"/>
+  <rect x="92" y="58" width="10" height="4" rx="2" fill="#4a3520" transform="rotate(15 97 60)"/>
+  <rect x="90" y="64" width="11" height="4" rx="2" fill="#4a3520" transform="rotate(5 96 66)"/>
+  <rect x="88" y="70" width="11" height="4" rx="2" fill="#4a3520" transform="rotate(-5 94 72)"/>
+  <!-- Body -->
+  <ellipse cx="60" cy="85" rx="26" ry="25" fill="#a0703c" stroke="#4a3520" stroke-width="2"/>
+  <ellipse cx="60" cy="88" rx="16" ry="16" fill="#d4a870"/>
+  <!-- Feet -->
+  <ellipse cx="48" cy="106" rx="8" ry="6" fill="#a0703c" stroke="#4a3520" stroke-width="1.5"/>
+  <ellipse cx="72" cy="106" rx="8" ry="6" fill="#a0703c" stroke="#4a3520" stroke-width="1.5"/>
+  <!-- Arms resting on belly -->
+  <path d="M37 82 Q32 90 36 96" fill="none" stroke="#4a3520" stroke-width="5" stroke-linecap="round"/>
+  <path d="M37 82 Q32 90 36 96" fill="none" stroke="#a0703c" stroke-width="3" stroke-linecap="round"/>
+  <path d="M83 82 Q88 90 84 96" fill="none" stroke="#4a3520" stroke-width="5" stroke-linecap="round"/>
+  <path d="M83 82 Q88 90 84 96" fill="none" stroke="#a0703c" stroke-width="3" stroke-linecap="round"/>
+  <!-- Head -->
+  <ellipse cx="60" cy="43" rx="23" ry="21" fill="#a0703c" stroke="#4a3520" stroke-width="2"/>
+  <!-- Ears -->
+  <ellipse cx="43" cy="27" rx="7" ry="9" fill="#a0703c" stroke="#4a3520" stroke-width="2"/>
+  <ellipse cx="43" cy="27" rx="4" ry="5.5" fill="#d4a870"/>
+  <ellipse cx="77" cy="27" rx="7" ry="9" fill="#a0703c" stroke="#4a3520" stroke-width="2"/>
+  <ellipse cx="77" cy="27" rx="4" ry="5.5" fill="#d4a870"/>
+  <!-- Face -->
+  <ellipse cx="60" cy="42" rx="17" ry="14" fill="#ebd8c0"/>
+  <!-- Mask -->
+  <path d="M42 38 Q49 34 56 38 Q60 35 64 38 Q71 34 78 38 Q76 44 64 43 Q60 45 56 43 Q44 44 42 38Z" fill="#4a3520"/>
+  <!-- Eyes - sweet big eyes -->
+  <ellipse cx="52" cy="39" rx="4" ry="3.5" fill="white"/>
+  <ellipse cx="68" cy="39" rx="4" ry="3.5" fill="white"/>
+  <circle cx="53" cy="39" r="2" fill="#4a3520"/>
+  <circle cx="69" cy="39" r="2" fill="#4a3520"/>
+  <circle cx="54" cy="38" r="0.8" fill="white"/>
+  <circle cx="70" cy="38" r="0.8" fill="white"/>
+  <!-- Nose -->
+  <ellipse cx="60" cy="47" rx="3" ry="2" fill="#4a3520"/>
+  <!-- Sweet smile -->
+  <path d="M56 50 Q60 54 64 50" fill="none" stroke="#4a3520" stroke-width="1.5" stroke-linecap="round"/>
+  <!-- Blush -->
+  <ellipse cx="48" cy="48" rx="3" ry="2" fill="#e0a0a0" opacity="0.5"/>
+  <ellipse cx="72" cy="48" rx="3" ry="2" fill="#e0a0a0" opacity="0.5"/>
+</svg>

@@ -1,0 +1,29 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 120 120">
+  <!-- Top hook -->
+  <circle cx="60" cy="8" r="4" fill="#6B5B45"/>
+  <line x1="60" y1="12" x2="60" y2="22" stroke="#6B5B45" stroke-width="2"/>
+  <!-- Top disc -->
+  <ellipse cx="60" cy="25" rx="20" ry="5" fill="#90A4AE"/>
+  <!-- Hanging strings -->
+  <line x1="42" y1="25" x2="42" y2="80" stroke="#8D6E63" stroke-width="1.5"/>
+  <line x1="50" y1="27" x2="50" y2="90" stroke="#8D6E63" stroke-width="1.5"/>
+  <line x1="60" y1="28" x2="60" y2="85" stroke="#8D6E63" stroke-width="1.5"/>
+  <line x1="70" y1="27" x2="70" y2="75" stroke="#8D6E63" stroke-width="1.5"/>
+  <line x1="78" y1="25" x2="78" y2="70" stroke="#8D6E63" stroke-width="1.5"/>
+  <!-- Metal tubes -->
+  <rect x="39" y="35" width="6" height="45" rx="3" fill="#B0BEC5"/>
+  <rect x="39" y="35" width="3" height="45" rx="1.5" fill="#CFD8DC" opacity="0.5"/>
+  <rect x="47" y="38" width="6" height="52" rx="3" fill="#B0BEC5"/>
+  <rect x="47" y="38" width="3" height="52" rx="1.5" fill="#CFD8DC" opacity="0.5"/>
+  <rect x="57" y="36" width="6" height="49" rx="3" fill="#B0BEC5"/>
+  <rect x="57" y="36" width="3" height="49" rx="1.5" fill="#CFD8DC" opacity="0.5"/>
+  <rect x="67" y="38" width="6" height="37" rx="3" fill="#B0BEC5"/>
+  <rect x="67" y="38" width="3" height="37" rx="1.5" fill="#CFD8DC" opacity="0.5"/>
+  <rect x="75" y="35" width="6" height="35" rx="3" fill="#B0BEC5"/>
+  <rect x="75" y="35" width="3" height="35" rx="1.5" fill="#CFD8DC" opacity="0.5"/>
+  <!-- Center striker string and sail -->
+  <line x1="60" y1="28" x2="60" y2="105" stroke="#8D6E63" stroke-width="1.5"/>
+  <circle cx="60" cy="62" r="6" fill="#90A4AE"/>
+  <!-- Wind sail -->
+  <path d="M50,95 Q60,88 70,95 Q60,105 50,95 Z" fill="#E8A84C" opacity="0.8"/>
+</svg>

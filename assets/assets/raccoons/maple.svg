@@ -1,0 +1,37 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 120 120">
+  <!-- maple - lazy, amber, lying down -->
+  <!-- Tail draped behind -->
+  <ellipse cx="92" cy="82" rx="18" ry="6" fill="#C8850F"/>
+  <ellipse cx="98" cy="80" rx="12" ry="4" fill="#6A4500"/>
+  <ellipse cx="103" cy="78" rx="7" ry="3" fill="#C8850F"/>
+  <!-- Body - lying on side, horizontal -->
+  <ellipse cx="55" cy="82" rx="30" ry="18" fill="#C8850F"/>
+  <ellipse cx="55" cy="84" rx="24" ry="12" fill="#E8C06F"/>
+  <!-- Arms flopped -->
+  <ellipse cx="35" cy="90" rx="8" ry="4" fill="#C8850F"/>
+  <ellipse cx="72" cy="88" rx="8" ry="4" fill="#C8850F"/>
+  <!-- Legs stretched -->
+  <ellipse cx="75" cy="94" rx="5" ry="6" fill="#8A5A00" transform="rotate(-20 75 94)"/>
+  <ellipse cx="38" cy="95" rx="5" ry="6" fill="#8A5A00" transform="rotate(10 38 95)"/>
+  <!-- Head resting on ground -->
+  <circle cx="30" cy="68" r="18" fill="#C8850F"/>
+  <!-- Ears -->
+  <circle cx="17" cy="54" r="6" fill="#C8850F"/>
+  <circle cx="17" cy="54" r="3.5" fill="#D4A080"/>
+  <circle cx="40" cy="52" r="6" fill="#C8850F"/>
+  <circle cx="40" cy="52" r="3.5" fill="#D4A080"/>
+  <!-- Mask -->
+  <ellipse cx="23" cy="66" rx="9" ry="6" fill="#6A4500"/>
+  <ellipse cx="38" cy="66" rx="9" ry="6" fill="#6A4500"/>
+  <!-- Eyes - sleepy half closed -->
+  <path d="M20 65 Q24 63 28 65" fill="none" stroke="#1A1A1A" stroke-width="1.5" stroke-linecap="round"/>
+  <path d="M34 65 Q38 63 42 65" fill="none" stroke="#1A1A1A" stroke-width="1.5" stroke-linecap="round"/>
+  <!-- Nose -->
+  <ellipse cx="30" cy="72" rx="2.5" ry="1.8" fill="#1A1A1A"/>
+  <!-- Relaxed mouth -->
+  <path d="M26 75 Q30 77 34 75" fill="none" stroke="#1A1A1A" stroke-width="1" stroke-linecap="round"/>
+  <!-- Zzz -->
+  <text x="50" y="55" font-size="8" fill="#8A5A00" font-family="sans-serif" font-weight="bold">z</text>
+  <text x="56" y="48" font-size="10" fill="#8A5A00" font-family="sans-serif" font-weight="bold">z</text>
+  <text x="64" y="40" font-size="12" fill="#8A5A00" font-family="sans-serif" font-weight="bold">Z</text>
+</svg>

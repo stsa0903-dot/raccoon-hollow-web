@@ -1,0 +1,42 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 120 120">
+  <!-- Golden Patches Raccoon -->
+  <!-- Tail -->
+  <ellipse cx="85" cy="95" rx="12" ry="6" fill="#DAA520" transform="rotate(-30 85 95)"/>
+  <ellipse cx="92" cy="90" rx="10" ry="5" fill="#B8860B" transform="rotate(-30 92 90)"/>
+  <ellipse cx="98" cy="85" rx="8" ry="4" fill="#DAA520" transform="rotate(-30 98 85)"/>
+  <!-- Body -->
+  <ellipse cx="60" cy="80" rx="25" ry="20" fill="#DAA520"/>
+  <!-- Belly -->
+  <ellipse cx="60" cy="85" rx="15" ry="12" fill="#FFD700"/>
+  <!-- Patches on body -->
+  <circle cx="48" cy="75" r="6" fill="#FFD700"/>
+  <circle cx="72" cy="78" r="5" fill="#B8860B"/>
+  <!-- Head -->
+  <circle cx="60" cy="45" r="22" fill="#DAA520"/>
+  <!-- Patch on head -->
+  <circle cx="68" cy="36" r="7" fill="#FFD700"/>
+  <!-- Ears -->
+  <circle cx="42" cy="28" r="8" fill="#DAA520"/>
+  <circle cx="42" cy="28" r="5" fill="#FFD700"/>
+  <circle cx="78" cy="28" r="8" fill="#DAA520"/>
+  <circle cx="78" cy="28" r="5" fill="#FFD700"/>
+  <!-- Mask -->
+  <ellipse cx="49" cy="44" rx="10" ry="6" fill="#B8860B"/>
+  <ellipse cx="71" cy="44" rx="10" ry="6" fill="#B8860B"/>
+  <!-- Eyes -->
+  <circle cx="50" cy="44" r="3.5" fill="white"/>
+  <circle cx="70" cy="44" r="3.5" fill="white"/>
+  <circle cx="51" cy="44" r="2" fill="#222"/>
+  <circle cx="71" cy="44" r="2" fill="#222"/>
+  <!-- Nose -->
+  <ellipse cx="60" cy="52" rx="3" ry="2" fill="#222"/>
+  <!-- Mouth -->
+  <path d="M57 55 Q60 58 63 55" fill="none" stroke="#222" stroke-width="0.8"/>
+  <!-- Feet -->
+  <ellipse cx="45" cy="102" rx="8" ry="4" fill="#B8860B"/>
+  <ellipse cx="75" cy="102" rx="8" ry="4" fill="#B8860B"/>
+  <!-- Sparkle details -->
+  <polygon points="20,35 21,31 22,35 26,36 22,37 21,41 20,37 16,36" fill="#FFF8DC"/>
+  <polygon points="95,40 96,37 97,40 100,41 97,42 96,45 95,42 92,41" fill="#FFF8DC"/>
+  <polygon points="55,10 56,7 57,10 60,11 57,12 56,15 55,12 52,11" fill="#FFF8DC"/>
+</svg>

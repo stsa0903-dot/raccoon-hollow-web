@@ -1,0 +1,48 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 200 200">
+  <!-- Biscuit - Social, Common - Sitting upright, waving, friendly smile -->
+  <!-- Tail behind body -->
+  <path d="M130,155 Q155,145 165,125 Q175,105 165,95 Q155,90 150,100" fill="#C4A265" stroke="#2D2D2D" stroke-width="3.5" stroke-linecap="round"/>
+  <!-- Tail stripes -->
+  <path d="M160,120 Q165,114 170,118" fill="none" stroke="#2D2D2D" stroke-width="4" stroke-linecap="round"/>
+  <path d="M158,110 Q163,104 167,108" fill="none" stroke="#2D2D2D" stroke-width="4" stroke-linecap="round"/>
+  <path d="M155,101 Q159,96 162,100" fill="none" stroke="#2D2D2D" stroke-width="3.5" stroke-linecap="round"/>
+  <!-- Body sitting upright -->
+  <ellipse cx="100" cy="140" rx="40" ry="45" fill="#C4A265" stroke="#2D2D2D" stroke-width="3.5"/>
+  <!-- Belly -->
+  <ellipse cx="100" cy="145" rx="25" ry="30" fill="#EDE0C8"/>
+  <!-- Head -->
+  <circle cx="100" cy="72" r="35" fill="#C4A265" stroke="#2D2D2D" stroke-width="3.5"/>
+  <!-- Face mask -->
+  <path d="M75,62 Q85,52 100,58 Q115,52 125,62 Q120,78 100,82 Q80,78 75,62Z" fill="#5C4A32"/>
+  <!-- Light forehead patch -->
+  <path d="M88,56 Q100,50 112,56 Q100,60 88,56Z" fill="#D4BC8A"/>
+  <!-- Eyes - bright and friendly -->
+  <ellipse cx="88" cy="66" rx="7" ry="8" fill="#FFFFFF" stroke="#2D2D2D" stroke-width="2"/>
+  <ellipse cx="89" cy="67" rx="4" ry="4.5" fill="#2D2D2D"/>
+  <circle cx="90.5" cy="65" r="1.5" fill="#FFFFFF"/>
+  <ellipse cx="112" cy="66" rx="7" ry="8" fill="#FFFFFF" stroke="#2D2D2D" stroke-width="2"/>
+  <ellipse cx="113" cy="67" rx="4" ry="4.5" fill="#2D2D2D"/>
+  <circle cx="114.5" cy="65" r="1.5" fill="#FFFFFF"/>
+  <!-- Nose -->
+  <ellipse cx="100" cy="75" rx="5" ry="3.5" fill="#2D2D2D"/>
+  <!-- Open mouth smile -->
+  <path d="M90,80 Q100,90 110,80" fill="#D45B5B" stroke="#2D2D2D" stroke-width="2" stroke-linecap="round"/>
+  <path d="M93,80 Q100,85 107,80" fill="#F28B8B"/>
+  <!-- Ears -->
+  <path d="M72,50 Q65,30 78,40" fill="#C4A265" stroke="#2D2D2D" stroke-width="3" stroke-linecap="round"/>
+  <path d="M74,44 Q70,36 77,41" fill="#E8B4B8"/>
+  <path d="M128,50 Q135,30 122,40" fill="#C4A265" stroke="#2D2D2D" stroke-width="3" stroke-linecap="round"/>
+  <path d="M126,44 Q130,36 123,41" fill="#E8B4B8"/>
+  <!-- Waving arm (right) -->
+  <path d="M135,110 Q155,90 160,70" fill="none" stroke="#C4A265" stroke-width="14" stroke-linecap="round"/>
+  <path d="M135,110 Q155,90 160,70" fill="none" stroke="#2D2D2D" stroke-width="17" stroke-linecap="round" opacity="0.15"/>
+  <path d="M135,110 Q155,90 160,70" fill="none" stroke="#C4A265" stroke-width="12" stroke-linecap="round"/>
+  <!-- Waving paw -->
+  <circle cx="160" cy="68" r="9" fill="#C4A265" stroke="#2D2D2D" stroke-width="3"/>
+  <path d="M155,66 L156,70 M159,65 L159,69 M163,66 L162,70" stroke="#2D2D2D" stroke-width="1.5" stroke-linecap="round"/>
+  <!-- Other arm resting -->
+  <ellipse cx="68" cy="135" rx="10" ry="8" fill="#C4A265" stroke="#2D2D2D" stroke-width="3"/>
+  <!-- Feet -->
+  <ellipse cx="82" cy="180" rx="14" ry="8" fill="#C4A265" stroke="#2D2D2D" stroke-width="3"/>
+  <ellipse cx="118" cy="180" rx="14" ry="8" fill="#C4A265" stroke="#2D2D2D" stroke-width="3"/>
+</svg>

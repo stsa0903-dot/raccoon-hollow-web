@@ -1,0 +1,42 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 120 120">
+  <!-- Golden Whisper Raccoon - gentle, soft expression, big ears -->
+  <!-- Tail -->
+  <ellipse cx="85" cy="95" rx="12" ry="6" fill="#DAA520" transform="rotate(-30 85 95)"/>
+  <ellipse cx="92" cy="90" rx="10" ry="5" fill="#B8860B" transform="rotate(-30 92 90)"/>
+  <ellipse cx="98" cy="85" rx="8" ry="4" fill="#DAA520" transform="rotate(-30 98 85)"/>
+  <!-- Body -->
+  <ellipse cx="60" cy="80" rx="25" ry="20" fill="#DAA520"/>
+  <!-- Belly -->
+  <ellipse cx="60" cy="85" rx="15" ry="12" fill="#FFD700"/>
+  <!-- Head -->
+  <circle cx="60" cy="45" r="22" fill="#DAA520"/>
+  <!-- Big ears (whisper has large ears) -->
+  <circle cx="40" cy="25" r="10" fill="#DAA520"/>
+  <circle cx="40" cy="25" r="7" fill="#FFD700"/>
+  <circle cx="80" cy="25" r="10" fill="#DAA520"/>
+  <circle cx="80" cy="25" r="7" fill="#FFD700"/>
+  <!-- Mask -->
+  <ellipse cx="49" cy="44" rx="10" ry="6" fill="#B8860B"/>
+  <ellipse cx="71" cy="44" rx="10" ry="6" fill="#B8860B"/>
+  <!-- Eyes - gentle, half-closed -->
+  <ellipse cx="50" cy="44" rx="3.5" ry="2.5" fill="white"/>
+  <ellipse cx="70" cy="44" rx="3.5" ry="2.5" fill="white"/>
+  <circle cx="50" cy="44" r="1.8" fill="#222"/>
+  <circle cx="70" cy="44" r="1.8" fill="#222"/>
+  <!-- Nose -->
+  <ellipse cx="60" cy="52" rx="2.5" ry="1.8" fill="#222"/>
+  <!-- Gentle smile -->
+  <path d="M57 55 Q60 57 63 55" fill="none" stroke="#222" stroke-width="0.7"/>
+  <!-- Whiskers -->
+  <line x1="40" y1="50" x2="30" y2="48" stroke="#B8860B" stroke-width="0.5"/>
+  <line x1="40" y1="52" x2="30" y2="53" stroke="#B8860B" stroke-width="0.5"/>
+  <line x1="80" y1="50" x2="90" y2="48" stroke="#B8860B" stroke-width="0.5"/>
+  <line x1="80" y1="52" x2="90" y2="53" stroke="#B8860B" stroke-width="0.5"/>
+  <!-- Feet -->
+  <ellipse cx="45" cy="102" rx="8" ry="4" fill="#B8860B"/>
+  <ellipse cx="75" cy="102" rx="8" ry="4" fill="#B8860B"/>
+  <!-- Sparkle details -->
+  <polygon points="22,45 23,41 24,45 28,46 24,47 23,51 22,47 18,46" fill="#FFF8DC"/>
+  <polygon points="96,45 97,42 98,45 101,46 98,47 97,50 96,47 93,46" fill="#FFF8DC"/>
+  <polygon points="58,8 59,5 60,8 63,9 60,10 59,13 58,10 55,9" fill="#FFF8DC"/>
+</svg>

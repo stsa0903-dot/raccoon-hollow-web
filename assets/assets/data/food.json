@@ -1,0 +1,112 @@
+[
+  {
+    "id": "bread_crusts",
+    "name": "Bread Crusts",
+    "tier": "basic",
+    "coinCost": 5,
+    "snaxCost": null,
+    "durationMinutes": 120,
+    "visitBonus": 1.0,
+    "charmValue": 2,
+    "attractsPersonality": null
+  },
+  {
+    "id": "kibble",
+    "name": "Kibble",
+    "tier": "basic",
+    "coinCost": 8,
+    "snaxCost": null,
+    "durationMinutes": 180,
+    "visitBonus": 1.1,
+    "charmValue": 3,
+    "attractsPersonality": null
+  },
+  {
+    "id": "apple_cores",
+    "name": "Apple Cores",
+    "tier": "basic",
+    "coinCost": 10,
+    "snaxCost": null,
+    "durationMinutes": 150,
+    "visitBonus": 1.0,
+    "charmValue": 3,
+    "attractsPersonality": "curious"
+  },
+  {
+    "id": "pizza_slice",
+    "name": "Pizza Slice",
+    "tier": "standard",
+    "coinCost": 25,
+    "snaxCost": null,
+    "durationMinutes": 120,
+    "visitBonus": 1.3,
+    "charmValue": 5,
+    "attractsPersonality": "mischievous"
+  },
+  {
+    "id": "berries",
+    "name": "Fresh Berries",
+    "tier": "standard",
+    "coinCost": 30,
+    "snaxCost": null,
+    "durationMinutes": 90,
+    "visitBonus": 1.4,
+    "charmValue": 6,
+    "attractsPersonality": "curious"
+  },
+  {
+    "id": "trail_mix",
+    "name": "Trail Mix",
+    "tier": "standard",
+    "coinCost": 20,
+    "snaxCost": null,
+    "durationMinutes": 240,
+    "visitBonus": 1.2,
+    "charmValue": 5,
+    "attractsPersonality": "adventurous"
+  },
+  {
+    "id": "sushi_rolls",
+    "name": "Sushi Rolls",
+    "tier": "premium",
+    "coinCost": 60,
+    "snaxCost": null,
+    "durationMinutes": 90,
+    "visitBonus": 1.6,
+    "charmValue": 10,
+    "attractsPersonality": "nocturnal"
+  },
+  {
+    "id": "honey_pot",
+    "name": "Honey Pot",
+    "tier": "premium",
+    "coinCost": 50,
+    "snaxCost": null,
+    "durationMinutes": 120,
+    "visitBonus": 1.5,
+    "charmValue": 8,
+    "attractsPersonality": "shy"
+  },
+  {
+    "id": "gourmet_cheese",
+    "name": "Gourmet Cheese",
+    "tier": "premium",
+    "coinCost": 55,
+    "snaxCost": null,
+    "durationMinutes": 150,
+    "visitBonus": 1.5,
+    "charmValue": 9,
+    "attractsPersonality": "mischievous"
+  },
+  {
+    "id": "moonberry_tart",
+    "name": "Moonberry Tart",
+    "tier": "snaxOnly",
+    "coinCost": 0,
+    "snaxCost": 15,
+    "durationMinutes": 60,
+    "visitBonus": 2.0,
+    "charmValue": 15,
+    "attractsPersonality": "nocturnal"
+  }
+]

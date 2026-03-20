@@ -1,0 +1,37 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 120 120">
+  <!-- Muffin - warm tan, content expression -->
+  <!-- Tail -->
+  <path d="M28 85 Q15 78 12 68 Q10 58 18 55 Q24 53 27 60 Q30 68 33 78" fill="#c8a882" stroke="#5a4a3a" stroke-width="2"/>
+  <rect x="12" y="57" width="10" height="4" rx="2" fill="#5a4a3a" transform="rotate(-15 17 59)"/>
+  <rect x="14" y="63" width="11" height="4" rx="2" fill="#5a4a3a" transform="rotate(-5 20 65)"/>
+  <rect x="17" y="69" width="11" height="4" rx="2" fill="#5a4a3a" transform="rotate(5 23 71)"/>
+  <!-- Body -->
+  <ellipse cx="60" cy="85" rx="27" ry="25" fill="#c8a882" stroke="#5a4a3a" stroke-width="2"/>
+  <ellipse cx="60" cy="88" rx="17" ry="17" fill="#e8d5be"/>
+  <!-- Feet -->
+  <ellipse cx="47" cy="106" rx="9" ry="6" fill="#c8a882" stroke="#5a4a3a" stroke-width="1.5"/>
+  <ellipse cx="73" cy="106" rx="9" ry="6" fill="#c8a882" stroke="#5a4a3a" stroke-width="1.5"/>
+  <!-- Arms -->
+  <path d="M38 78 Q30 88 34 95" fill="none" stroke="#5a4a3a" stroke-width="5" stroke-linecap="round"/>
+  <path d="M38 78 Q30 88 34 95" fill="none" stroke="#c8a882" stroke-width="3" stroke-linecap="round"/>
+  <path d="M82 78 Q90 88 86 95" fill="none" stroke="#5a4a3a" stroke-width="5" stroke-linecap="round"/>
+  <path d="M82 78 Q90 88 86 95" fill="none" stroke="#c8a882" stroke-width="3" stroke-linecap="round"/>
+  <!-- Head -->
+  <ellipse cx="60" cy="43" rx="23" ry="21" fill="#c8a882" stroke="#5a4a3a" stroke-width="2"/>
+  <!-- Ears -->
+  <ellipse cx="43" cy="27" rx="7" ry="9" fill="#c8a882" stroke="#5a4a3a" stroke-width="2"/>
+  <ellipse cx="43" cy="27" rx="4" ry="5.5" fill="#e8b8a0"/>
+  <ellipse cx="77" cy="27" rx="7" ry="9" fill="#c8a882" stroke="#5a4a3a" stroke-width="2"/>
+  <ellipse cx="77" cy="27" rx="4" ry="5.5" fill="#e8b8a0"/>
+  <!-- Face -->
+  <ellipse cx="60" cy="42" rx="17" ry="14" fill="#f0e4d4"/>
+  <!-- Mask -->
+  <path d="M42 38 Q49 34 56 38 Q60 35 64 38 Q71 34 78 38 Q76 44 64 43 Q60 45 56 43 Q44 44 42 38Z" fill="#5a4a3a"/>
+  <!-- Eyes - content/happy half-closed -->
+  <path d="M50 39 Q53 37 56 39" fill="none" stroke="white" stroke-width="2.5" stroke-linecap="round"/>
+  <path d="M64 39 Q67 37 70 39" fill="none" stroke="white" stroke-width="2.5" stroke-linecap="round"/>
+  <!-- Nose -->
+  <ellipse cx="60" cy="47" rx="3" ry="2" fill="#5a4a3a"/>
+  <!-- Content smile -->
+  <path d="M55 50 Q60 53 65 50" fill="none" stroke="#5a4a3a" stroke-width="1.5" stroke-linecap="round"/>
+</svg>

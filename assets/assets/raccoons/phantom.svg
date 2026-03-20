@@ -1,0 +1,58 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 120 120">
+  <!-- Ghost wisps -->
+  <path d="M20,40 Q15,35 18,28 Q22,32 20,40" fill="#A0A0B0" opacity="0.15"/>
+  <path d="M100,35 Q105,30 102,22 Q98,28 100,35" fill="#A0A0B0" opacity="0.12"/>
+  <path d="M25,80 Q20,75 22,68 Q26,72 25,80" fill="#A0A0B0" opacity="0.1"/>
+  <!-- Shadow underneath - ghostly float -->
+  <ellipse cx="60" cy="108" rx="20" ry="4" fill="#444" opacity="0.2"/>
+  <!-- Body - translucent/ghostly -->
+  <ellipse cx="60" cy="70" rx="27" ry="31" fill="#8A8A96" opacity="0.6"/>
+  <!-- Translucent inner body -->
+  <ellipse cx="60" cy="70" rx="24" ry="28" fill="#A0A0B0" opacity="0.3"/>
+  <!-- Belly -->
+  <ellipse cx="60" cy="76" rx="18" ry="20" fill="#B8B8C8" opacity="0.4"/>
+  <!-- Ghostly wisp trails from body bottom -->
+  <path d="M40,96 Q38,104 42,110" fill="none" stroke="#8A8A96" stroke-width="3" opacity="0.3" stroke-linecap="round"/>
+  <path d="M52,98 Q50,106 54,112" fill="none" stroke="#8A8A96" stroke-width="2.5" opacity="0.25" stroke-linecap="round"/>
+  <path d="M68,98 Q70,106 66,112" fill="none" stroke="#8A8A96" stroke-width="2.5" opacity="0.25" stroke-linecap="round"/>
+  <path d="M80,96 Q82,104 78,110" fill="none" stroke="#8A8A96" stroke-width="3" opacity="0.3" stroke-linecap="round"/>
+  <!-- Tail - ethereal, fading -->
+  <path d="M87,64 Q104,44 100,26 Q96,16 90,24 Q86,36 87,50" fill="#8A8A96" opacity="0.45" stroke="#6A6A78" stroke-width="1"/>
+  <path d="M91,48 Q98,36 97,28" fill="none" stroke="#6A6A78" stroke-width="2.5" opacity="0.5"/>
+  <path d="M89,42 Q95,32 94,26" fill="none" stroke="#B8B8C8" stroke-width="1.5" opacity="0.4"/>
+  <!-- Tail fading tip -->
+  <path d="M98,22 Q96,16 100,12" fill="none" stroke="#8A8A96" stroke-width="2" opacity="0.2" stroke-linecap="round"/>
+  <!-- Head -->
+  <circle cx="60" cy="36" r="23" fill="#9090A0" opacity="0.65"/>
+  <circle cx="60" cy="36" r="20" fill="#A0A0B0" opacity="0.3"/>
+  <!-- Ears - wispy -->
+  <ellipse cx="42" cy="18" rx="8" ry="10" fill="#9090A0" opacity="0.5"/>
+  <ellipse cx="42" cy="18" rx="5" ry="7" fill="#B8B8C8" opacity="0.3"/>
+  <ellipse cx="78" cy="18" rx="8" ry="10" fill="#9090A0" opacity="0.5"/>
+  <ellipse cx="78" cy="18" rx="5" ry="7" fill="#B8B8C8" opacity="0.3"/>
+  <!-- Ghost wisps from ears -->
+  <path d="M42,8 Q40,4 42,0" fill="none" stroke="#9090A0" stroke-width="1.5" opacity="0.25"/>
+  <path d="M78,8 Q80,4 78,0" fill="none" stroke="#9090A0" stroke-width="1.5" opacity="0.25"/>
+  <!-- Mask - darker translucent -->
+  <path d="M37,30 Q50,26 60,32 Q70,26 83,30 Q79,41 60,41 Q41,41 37,30Z" fill="#4A4A58" opacity="0.6"/>
+  <!-- Eyes - glowing, haunting -->
+  <ellipse cx="50" cy="34" rx="6" ry="5.5" fill="#D0D0E0" opacity="0.8"/>
+  <ellipse cx="70" cy="34" rx="6" ry="5.5" fill="#D0D0E0" opacity="0.8"/>
+  <circle cx="50" cy="34" r="3.5" fill="#E0E0FF"/>
+  <circle cx="70" cy="34" r="3.5" fill="#E0E0FF"/>
+  <circle cx="50" cy="34" r="2" fill="white" opacity="0.9"/>
+  <circle cx="70" cy="34" r="2" fill="white" opacity="0.9"/>
+  <!-- Eerie glow around eyes -->
+  <circle cx="50" cy="34" r="8" fill="#C0C0E0" opacity="0.1"/>
+  <circle cx="70" cy="34" r="8" fill="#C0C0E0" opacity="0.1"/>
+  <!-- Nose -->
+  <ellipse cx="60" cy="41" rx="3" ry="2" fill="#555568" opacity="0.6"/>
+  <!-- Mysterious faint smile -->
+  <path d="M56,45 Q60,47 64,45" fill="none" stroke="#555568" stroke-width="1" stroke-linecap="round" opacity="0.6"/>
+  <!-- Arms - ghostly, trailing -->
+  <path d="M35,58 Q24,64 20,72" fill="none" stroke="#8A8A96" stroke-width="5" stroke-linecap="round" opacity="0.45"/>
+  <path d="M85,58 Q96,64 100,72" fill="none" stroke="#8A8A96" stroke-width="5" stroke-linecap="round" opacity="0.45"/>
+  <!-- Ghost trail from arms -->
+  <path d="M20,72 Q18,78 20,84" fill="none" stroke="#8A8A96" stroke-width="2" opacity="0.2" stroke-linecap="round"/>
+  <path d="M100,72 Q102,78 100,84" fill="none" stroke="#8A8A96" stroke-width="2" opacity="0.2" stroke-linecap="round"/>
+</svg>
