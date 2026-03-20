@@ -1382,8 +1382,8 @@
       "moonlit_leaf"
     ],
     "friendshipRewards": {
-      "level5": 15,
-      "level10": 30
+      "level5": "bio_unlock",
+      "level10": "memento_midnight_moonstone"
     }
   },
   {
@@ -1409,8 +1409,8 @@
       "velvet_bow"
     ],
     "friendshipRewards": {
-      "level5": 20,
-      "level10": 40
+      "level5": "bio_unlock",
+      "level10": "memento_duchess_tiara"
     }
   },
   {
@@ -1437,8 +1437,8 @@
       "void_crystal"
     ],
     "friendshipRewards": {
-      "level5": 30,
-      "level10": 60
+      "level5": "bio_unlock",
+      "level10": "memento_ghost_lantern"
     }
   }
 ]
