@@ -24,6 +24,10 @@
     "friendshipRewards": {
       "level5": "bio_unlock",
       "level10": "memento_bottle_cap_collection"
+    },
+    "uniquePerk": {
+      "type": "offlineEarnings",
+      "value": 0.03
     }
   },
   {
@@ -51,6 +55,10 @@
     "friendshipRewards": {
       "level5": "bio_unlock",
       "level10": "memento_patchwork_scrapbook"
+    },
+    "uniquePerk": {
+      "type": "nightVisitBonus",
+      "value": 0.02
     }
   },
   {
@@ -78,6 +86,10 @@
     "friendshipRewards": {
       "level5": "bio_unlock",
       "level10": "memento_golden_spork"
+    },
+    "uniquePerk": {
+      "type": "trinketQuality",
+      "value": 0.03
     }
   },
   {
@@ -105,6 +117,10 @@
     "friendshipRewards": {
       "level5": "bio_unlock",
       "level10": "memento_shadow_charm"
+    },
+    "uniquePerk": {
+      "type": "trinketQuality",
+      "value": 0.01
     }
   },
   {
@@ -132,6 +148,10 @@
     "friendshipRewards": {
       "level5": "bio_unlock",
       "level10": "memento_explorer_badge"
+    },
+    "uniquePerk": {
+      "type": "rareVisitChance",
+      "value": 0.01
     }
   },
   {
@@ -160,6 +180,10 @@
     "friendshipRewards": {
       "level5": "bio_unlock",
       "level10": "memento_flower_crown"
+    },
+    "uniquePerk": {
+      "type": "offlineEarnings",
+      "value": 0.02
     }
   },
   {
@@ -188,6 +212,10 @@
     "friendshipRewards": {
       "level5": "bio_unlock",
       "level10": "memento_friendship_bracelet"
+    },
+    "uniquePerk": {
+      "type": "discoveryChance",
+      "value": 0.03
     }
   },
   {
@@ -215,6 +243,10 @@
     "friendshipRewards": {
       "level5": "bio_unlock",
       "level10": "memento_patchwork_blanket"
+    },
+    "uniquePerk": {
+      "type": "discoveryChance",
+      "value": 0.01
     }
   },
   {
@@ -242,6 +274,10 @@
     "friendshipRewards": {
       "level5": "bio_unlock",
       "level10": "memento_trick_deck"
+    },
+    "uniquePerk": {
+      "type": "offlineEarnings",
+      "value": 0.01
     }
   },
   {
@@ -269,6 +305,10 @@
     "friendshipRewards": {
       "level5": "bio_unlock",
       "level10": "memento_crescent_pendant"
+    },
+    "uniquePerk": {
+      "type": "foodDuration",
+      "value": 0.03
     }
   },
   {
@@ -296,6 +336,10 @@
     "friendshipRewards": {
       "level5": "bio_unlock",
       "level10": "memento_lucky_clover_pressed"
+    },
+    "uniquePerk": {
+      "type": "nightVisitBonus",
+      "value": 0.01
     }
   },
   {
@@ -323,6 +367,10 @@
     "friendshipRewards": {
       "level5": "bio_unlock",
       "level10": "memento_golden_muffin_tin"
+    },
+    "uniquePerk": {
+      "type": "nightVisitBonus",
+      "value": 0.02
     }
   },
   {
@@ -350,6 +398,10 @@
     "friendshipRewards": {
       "level5": "bio_unlock",
       "level10": "memento_speedster_goggles"
+    },
+    "uniquePerk": {
+      "type": "offlineEarnings",
+      "value": 0.02
     }
   },
   {
@@ -377,6 +429,10 @@
     "friendshipRewards": {
       "level5": "bio_unlock",
       "level10": "memento_cloud_pillow"
+    },
+    "uniquePerk": {
+      "type": "foodDuration",
+      "value": 0.03
     }
   },
   {
@@ -404,6 +460,10 @@
     "friendshipRewards": {
       "level5": "bio_unlock",
       "level10": "memento_perpetual_motion_toy"
+    },
+    "uniquePerk": {
+      "type": "friendshipEarned",
+      "value": 0.01
     }
   },
   {
@@ -431,6 +491,10 @@
     "friendshipRewards": {
       "level5": "bio_unlock",
       "level10": "memento_lantern_charm"
+    },
+    "uniquePerk": {
+      "type": "foodDuration",
+      "value": 0.02
     }
   },
   {
@@ -459,6 +523,10 @@
     "friendshipRewards": {
       "level5": "bio_unlock",
       "level10": "memento_cairn_sculpture"
+    },
+    "uniquePerk": {
+      "type": "foodDuration",
+      "value": 0.01
     }
   },
   {
@@ -487,6 +555,10 @@
     "friendshipRewards": {
       "level5": "bio_unlock",
       "level10": "memento_party_planning_kit"
+    },
+    "uniquePerk": {
+      "type": "nightVisitBonus",
+      "value": 0.01
     }
   },
   {
@@ -514,6 +586,10 @@
     "friendshipRewards": {
       "level5": "bio_unlock",
       "level10": "memento_antique_pocket_watch"
+    },
+    "uniquePerk": {
+      "type": "rareVisitChance",
+      "value": 0.02
     }
   },
   {
@@ -541,6 +617,10 @@
     "friendshipRewards": {
       "level5": "bio_unlock",
       "level10": "memento_tiny_treehouse_model"
+    },
+    "uniquePerk": {
+      "type": "offlineEarnings",
+      "value": 0.01
     }
   },
   {
@@ -568,6 +648,10 @@
     "friendshipRewards": {
       "level5": "bio_unlock",
       "level10": "memento_prankster_trophy"
+    },
+    "uniquePerk": {
+      "type": "foodDuration",
+      "value": 0.02
     }
   },
   {
@@ -595,6 +679,10 @@
     "friendshipRewards": {
       "level5": "bio_unlock",
       "level10": "memento_snack_vault_key"
+    },
+    "uniquePerk": {
+      "type": "rareVisitChance",
+      "value": 0.03
     }
   },
   {
@@ -622,6 +710,10 @@
     "friendshipRewards": {
       "level5": "bio_unlock",
       "level10": "memento_twilight_brooch"
+    },
+    "uniquePerk": {
+      "type": "rareVisitChance",
+      "value": 0.02
     }
   },
   {
@@ -650,6 +742,10 @@
     "friendshipRewards": {
       "level5": "bio_unlock",
       "level10": "memento_welcome_wreath"
+    },
+    "uniquePerk": {
+      "type": "trinketQuality",
+      "value": 0.02
     }
   },
   {
@@ -678,6 +774,10 @@
     "friendshipRewards": {
       "level5": "bio_unlock",
       "level10": "memento_moth_lantern"
+    },
+    "uniquePerk": {
+      "type": "coinEarnings",
+      "value": 0.02
     }
   },
   {
@@ -705,6 +805,10 @@
     "friendshipRewards": {
       "level5": "bio_unlock",
       "level10": "memento_thunder_drum"
+    },
+    "uniquePerk": {
+      "type": "coinEarnings",
+      "value": 0.03
     }
   },
   {
@@ -732,6 +836,10 @@
     "friendshipRewards": {
       "level5": "bio_unlock",
       "level10": "memento_infinity_scarf"
+    },
+    "uniquePerk": {
+      "type": "trinketQuality",
+      "value": 0.03
     }
   },
   {
@@ -759,6 +867,10 @@
     "friendshipRewards": {
       "level5": "bio_unlock",
       "level10": "memento_inventors_wrench"
+    },
+    "uniquePerk": {
+      "type": "rareVisitChance",
+      "value": 0.02
     }
   },
   {
@@ -787,6 +899,10 @@
     "friendshipRewards": {
       "level5": "bio_unlock",
       "level10": "memento_harvest_basket"
+    },
+    "uniquePerk": {
+      "type": "trinketQuality",
+      "value": 0.02
     }
   },
   {
@@ -814,6 +930,10 @@
     "friendshipRewards": {
       "level5": "bio_unlock",
       "level10": "memento_abstract_masterpiece"
+    },
+    "uniquePerk": {
+      "type": "rareVisitChance",
+      "value": 0.01
     }
   },
   {
@@ -841,6 +961,10 @@
     "friendshipRewards": {
       "level5": "bio_unlock",
       "level10": "memento_briar_crown"
+    },
+    "uniquePerk": {
+      "type": "friendshipEarned",
+      "value": 0.01
     }
   },
   {
@@ -868,6 +992,10 @@
     "friendshipRewards": {
       "level5": "bio_unlock",
       "level10": "memento_button_mosaic"
+    },
+    "uniquePerk": {
+      "type": "nightVisitBonus",
+      "value": 0.02
     }
   },
   {
@@ -895,6 +1023,10 @@
     "friendshipRewards": {
       "level5": "bio_unlock",
       "level10": "memento_chaos_compass"
+    },
+    "uniquePerk": {
+      "type": "discoveryChance",
+      "value": 0.01
     }
   },
   {
@@ -923,6 +1055,10 @@
     "friendshipRewards": {
       "level5": "bio_unlock",
       "level10": "memento_thistle_pressed_bouquet"
+    },
+    "uniquePerk": {
+      "type": "foodDuration",
+      "value": 0.01
     }
   },
   {
@@ -950,6 +1086,10 @@
     "friendshipRewards": {
       "level5": "bio_unlock",
       "level10": "memento_eternal_ember"
+    },
+    "uniquePerk": {
+      "type": "discoveryChance",
+      "value": 0.01
     }
   },
   {
@@ -977,6 +1117,10 @@
     "friendshipRewards": {
       "level5": "bio_unlock",
       "level10": "memento_master_key_ring"
+    },
+    "uniquePerk": {
+      "type": "discoveryChance",
+      "value": 0.01
     }
   },
   {
@@ -1004,6 +1148,10 @@
     "friendshipRewards": {
       "level5": "bio_unlock",
       "level10": "memento_golden_compass"
+    },
+    "uniquePerk": {
+      "type": "rareVisitChance",
+      "value": 0.01
     }
   },
   {
@@ -1031,6 +1179,10 @@
     "friendshipRewards": {
       "level5": "bio_unlock",
       "level10": "memento_royal_cushion"
+    },
+    "uniquePerk": {
+      "type": "foodDuration",
+      "value": 0.02
     }
   },
   {
@@ -1058,6 +1210,10 @@
     "friendshipRewards": {
       "level5": "bio_unlock",
       "level10": "memento_lightning_in_a_bottle"
+    },
+    "uniquePerk": {
+      "type": "offlineEarnings",
+      "value": 0.02
     }
   },
   {
@@ -1086,6 +1242,10 @@
     "friendshipRewards": {
       "level5": "bio_unlock",
       "level10": "memento_elders_medallion"
+    },
+    "uniquePerk": {
+      "type": "offlineEarnings",
+      "value": 0.02
     }
   },
   {
@@ -1113,6 +1273,10 @@
     "friendshipRewards": {
       "level5": "bio_unlock",
       "level10": "memento_riddle_box"
+    },
+    "uniquePerk": {
+      "type": "trinketQuality",
+      "value": 0.01
     }
   },
   {
@@ -1140,6 +1304,10 @@
     "friendshipRewards": {
       "level5": "bio_unlock",
       "level10": "memento_cobalt_stained_glass"
+    },
+    "uniquePerk": {
+      "type": "foodDuration",
+      "value": 0.01
     }
   },
   {
@@ -1167,6 +1335,10 @@
     "friendshipRewards": {
       "level5": "bio_unlock",
       "level10": "memento_tome_of_whiskers"
+    },
+    "uniquePerk": {
+      "type": "nightVisitBonus",
+      "value": 0.02
     }
   },
   {
@@ -1194,6 +1366,10 @@
     "friendshipRewards": {
       "level5": "bio_unlock",
       "level10": "memento_phantom_mask"
+    },
+    "uniquePerk": {
+      "type": "rareVisitChance",
+      "value": 0.03
     }
   },
   {
@@ -1221,6 +1397,10 @@
     "friendshipRewards": {
       "level5": "bio_unlock",
       "level10": "memento_queens_banner"
+    },
+    "uniquePerk": {
+      "type": "nightVisitBonus",
+      "value": 0.01
     }
   },
   {
@@ -1248,6 +1428,10 @@
     "friendshipRewards": {
       "level5": "bio_unlock",
       "level10": "memento_winged_sandal_charm"
+    },
+    "uniquePerk": {
+      "type": "rareVisitChance",
+      "value": 0.01
     }
   },
   {
@@ -1276,6 +1460,10 @@
     "friendshipRewards": {
       "level5": "bio_unlock",
       "level10": "memento_willow_music_box"
+    },
+    "uniquePerk": {
+      "type": "nightVisitBonus",
+      "value": 0.02
     }
   },
   {
@@ -1303,6 +1491,10 @@
     "friendshipRewards": {
       "level5": "bio_unlock",
       "level10": "memento_gourmands_guide"
+    },
+    "uniquePerk": {
+      "type": "trinketQuality",
+      "value": 0.03
     }
   },
   {
@@ -1330,6 +1522,10 @@
     "friendshipRewards": {
       "level5": "bio_unlock",
       "level10": "memento_crown_of_the_longest_night"
+    },
+    "uniquePerk": {
+      "type": "rareVisitChance",
+      "value": 0.03
     }
   },
   {
@@ -1357,6 +1553,10 @@
     "friendshipRewards": {
       "level5": "bio_unlock",
       "level10": "memento_stormcallers_mantle"
+    },
+    "uniquePerk": {
+      "type": "coinEarnings",
+      "value": 0.02
     }
   },
   {
@@ -1384,6 +1584,10 @@
     "friendshipRewards": {
       "level5": "bio_unlock",
       "level10": "memento_midnight_moonstone"
+    },
+    "uniquePerk": {
+      "type": "offlineEarnings",
+      "value": 0.03
     }
   },
   {
@@ -1411,6 +1615,10 @@
     "friendshipRewards": {
       "level5": "bio_unlock",
       "level10": "memento_duchess_tiara"
+    },
+    "uniquePerk": {
+      "type": "trinketQuality",
+      "value": 0.03
     }
   },
   {
@@ -1439,6 +1647,10 @@
     "friendshipRewards": {
       "level5": "bio_unlock",
       "level10": "memento_ghost_lantern"
+    },
+    "uniquePerk": {
+      "type": "foodDuration",
+      "value": 0.03
     }
   }
 ]
